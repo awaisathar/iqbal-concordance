@@ -1,0 +1,27 @@
+[
+  {
+    "before": "",
+    "word": "لطیفۂ",
+    "after": "ازَلی ہے فغانِ چنگ و رباب",
+    "line": 10,
+    "file": 244,
+    "first": false,
+    "other": "جہانِ صوت و صدا میں سما نہیں سکتی"
+  },
+  {
+    "before": "ادبیات (فنُونِ",
+    "word": "لطیِفہ",
+    "after": ")",
+    "line": 1,
+    "file": 497,
+    "first": false
+  },
+  {
+    "before": "فنونِ",
+    "word": "لطیفہ",
+    "after": "",
+    "line": 1,
+    "file": 518,
+    "first": false
+  }
+]

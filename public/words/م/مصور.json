@@ -1,0 +1,43 @@
+[
+  {
+    "before": "نقش ہوں، اپنے",
+    "word": "مصوّر",
+    "after": "سے گِلا رکھتا ہوں میں",
+    "line": 72,
+    "file": 75,
+    "first": false,
+    "other": "مجھ کو پیدا کر کے اپنا نُکتہ چیں پیدا کیا"
+  },
+  {
+    "before": "",
+    "word": "مُصّور",
+    "after": "",
+    "line": 1,
+    "file": 525,
+    "first": false
+  },
+  {
+    "before": "تصویر و",
+    "word": "مُصوّر",
+    "after": "",
+    "line": 1,
+    "file": 600,
+    "first": false
+  },
+  {
+    "before": "",
+    "word": "مُصوّر",
+    "after": ":",
+    "line": 9,
+    "file": 600,
+    "first": true
+  },
+  {
+    "before": "",
+    "word": "مُصوّر",
+    "after": ":",
+    "line": 21,
+    "file": 600,
+    "first": true
+  }
+]

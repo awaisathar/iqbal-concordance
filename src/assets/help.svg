@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="none"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   stroke="#C1121F"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <path
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     d="m 14.121,7.519 c -1.171,-1.025 -3.071,-1.025 -4.242,0 -1.172,1.025 -1.172,2.687 0,3.712 0.203,0.179 0.43,0.326 0.67,0.442 0.745,0.361 1.45,0.999 1.45,1.827 v 0.75 M 3,12 a 9,9 0 1 0 18,0 9,9 0 0 0 -18,0 z m 9,5.25 h -0.008 v 0.008 H 12 Z"/>
+</svg>

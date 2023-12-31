@@ -1,0 +1,20 @@
+[
+  {
+    "before": "",
+    "word": "زیرکی",
+    "after": "بفروش و حیرانی بخر",
+    "line": 104,
+    "file": 345,
+    "first": false,
+    "other": "پیرِرومی"
+  },
+  {
+    "before": "",
+    "word": "زیرکی",
+    "after": "ظنّ است و حیرانی نظر",
+    "line": 105,
+    "file": 345,
+    "first": true,
+    "other": ""
+  }
+]

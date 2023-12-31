@@ -1,0 +1,85 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notonastaliqurdu.css);
+
+:root {
+    --P1: #780000;
+    --P2: #C1121F;
+    --P3: #FDF0D5;
+    --B1: #003049;
+    --B2: #ffe0e0;
+    direction: rtl;
+}
+
+
+body {
+    font-family: "Noto Nastaliq Urdu", Arial, sans-serif;
+    font-size: 14pt;
+}
+
+
+header {
+    display: flex;
+    justify-content: start;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.top {
+    display: block;
+    text-align: center;
+}
+
+
+a {
+    text-decoration: none;
+    color: var(--B1);
+}
+
+header a {
+    color: var(--P1);
+    font-size: 12pt;
+}
+
+header a img {
+    height: 64px;
+    margin: 0 0.3em;
+}
+
+nav {
+    position: absolute;
+    left: 1em;
+    top: 1em;
+}
+
+nav a img {
+    margin: 0.5em;
+    width: 20px;
+    height: 20px;
+}
+
+@media only screen and (max-device-width: 480px) {
+
+    body,
+    header a {
+        font-size: 12pt;
+    }
+
+    header a img {
+        height: 36px;
+    }
+}
+
+@media only screen and (max-device-width: 390px) {
+
+    body,
+    header a {
+        font-size: 10pt;
+    }
+
+    header a img {
+        height: 36px;
+    }
+}

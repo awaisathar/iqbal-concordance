@@ -1,0 +1,18 @@
+[
+  {
+    "before": "(ماخوذاز",
+    "word": "نطشہ",
+    "after": ")",
+    "line": 7,
+    "file": 381,
+    "first": true
+  },
+  {
+    "before": "حکیم",
+    "word": "نطشہ",
+    "after": "",
+    "line": 1,
+    "file": 482,
+    "first": false
+  }
+]

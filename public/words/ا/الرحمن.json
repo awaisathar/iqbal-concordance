@@ -1,0 +1,26 @@
+[
+  {
+    "before": "بسم اللہ",
+    "word": "الرحمن",
+    "after": "الرحیم",
+    "line": 1,
+    "file": 203,
+    "first": false
+  },
+  {
+    "before": "بسم اللہ",
+    "word": "الرحمن",
+    "after": "الرحیم",
+    "line": 1,
+    "file": 315,
+    "first": false
+  },
+  {
+    "before": "عبد",
+    "word": "الرّحمٰن",
+    "after": "اوّل کا بویا ہُوا کھجور کا پہلا درخت",
+    "line": 1,
+    "file": 319,
+    "first": false
+  }
+]
