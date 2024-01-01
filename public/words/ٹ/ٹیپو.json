@@ -1,9 +1,9 @@
 [
   {
-    "before": "سُلطان",
-    "word": "ٹِیپُو",
-    "after": "کی وصیّت",
-    "line": 1,
+    "line": "سُلطان ٹِیپُو کی وصیّت",
+    "start": 7,
+    "end": 13,
+    "line_number": 1,
     "file": 466,
     "first": false
   }

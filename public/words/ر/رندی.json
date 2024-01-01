@@ -1,26 +1,26 @@
 [
   {
-    "before": "زُہد اور",
-    "word": "رندی",
-    "after": "",
-    "line": 1,
+    "line": "زُہد اور رندی",
+    "start": 9,
+    "end": 13,
+    "line_number": 1,
     "file": 28,
     "first": false
   },
   {
-    "before": "",
-    "word": "رِندی",
-    "after": "سے بھی آگاہ، شریعت سے بھی واقف",
-    "line": 48,
+    "line": "رِندی سے بھی آگاہ، شریعت سے بھی واقف",
+    "start": 0,
+    "end": 5,
+    "line_number": 48,
     "file": 28,
     "first": true,
     "other": "پُوچھو جو تصوّف کی تو منصور کا ثانی"
   },
   {
-    "before": "کامِل وہی ہے",
-    "word": "رِندی",
-    "after": "کے فن میں",
-    "line": 11,
+    "line": "کامِل وہی ہے رِندی کے فن میں",
+    "start": 13,
+    "end": 18,
+    "line_number": 11,
     "file": 511,
     "first": true,
     "other": "مستی ہے جس کی بےمنّتِ تاک"

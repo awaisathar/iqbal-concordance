@@ -1,5 +1,14 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router';
+import router from './router';
+
+const goto = async (ev, dst) => {
+  ev.target.className = 'flipper';
+  setTimeout(async () => {
+    await router.push(dst);
+    ev.target.className = '';
+  }, 50);
+}
 </script>
 
 <template>
@@ -8,8 +17,8 @@ import { RouterLink, RouterView } from 'vue-router';
       <RouterLink to="/"><img src="@/assets/logo.svg" /></RouterLink>
     </header>
     <nav>
-      <RouterLink to="/"><img src="@/assets/home.svg" class="flip-on-click" /></RouterLink>
-      <RouterLink to="/about"><img src="@/assets/help.svg"  class="flip-on-click" /></RouterLink>
+      <a href="#"><img src="@/assets/home.svg" @click="(e)=>goto(e,'/')" /></a>
+      <a href="#"><img src="@/assets/help.svg" @click="(e)=>goto(e,'/about')" /></a>
     </nav>
   </div>
   <router-view v-slot="{ Component }">
@@ -20,11 +29,7 @@ import { RouterLink, RouterView } from 'vue-router';
 </template>
 
 <style scoped>
-.flip-on-click {
-  transition: transform 0.5s;
-}
-
-.flip-on-click:active {
+.flipper {
   animation: flip-animation 1s infinite;
 }
 
@@ -40,4 +45,5 @@ import { RouterLink, RouterView } from 'vue-router';
   100% {
     transform: scaleX(1);
   }
-}</style>
+}
+</style>

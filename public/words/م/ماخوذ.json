@@ -1,25 +1,25 @@
 [
   {
-    "before": "(",
-    "word": "ماخوذ",
-    "after": "از انوریؔ)",
-    "line": 14,
+    "line": "(ماخوذ از انوریؔ)",
+    "start": 1,
+    "end": 6,
+    "line_number": 14,
     "file": 332,
     "first": true
   },
   {
-    "before": "(",
-    "word": "ماخوذ",
-    "after": "از جرمن)",
-    "line": 10,
+    "line": "(ماخوذ از جرمن)",
+    "start": 1,
+    "end": 6,
+    "line_number": 10,
     "file": 383,
     "first": true
   },
   {
-    "before": "(",
-    "word": "ماخوذ",
-    "after": "از محی الدّین ابنِ عربیؒ)",
-    "line": 22,
+    "line": "(ماخوذ از محی الدّین ابنِ عربیؒ)",
+    "start": 1,
+    "end": 6,
+    "line_number": 22,
     "file": 433,
     "first": true
   }

@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "دوزخی",
-    "after": "کی مُناجات",
-    "line": 1,
+    "line": "دوزخی کی مُناجات",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 603,
     "first": false
   }

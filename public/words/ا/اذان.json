@@ -1,18 +1,18 @@
 [
   {
-    "before": "خبر میں، نظر میں،",
-    "word": "اذانِ",
-    "after": "سحَر میں",
-    "line": 15,
+    "line": "خبر میں، نظر میں، اذانِ سحَر میں",
+    "start": 18,
+    "end": 23,
+    "line_number": 15,
     "file": 323,
     "first": false,
     "other": "کیا تُو نے صحرا نشینوں کو یکتا"
   },
   {
-    "before": "",
-    "word": "اذان",
-    "after": "",
-    "line": 1,
+    "line": "اذان",
+    "start": 0,
+    "end": 4,
+    "line_number": 1,
     "file": 349,
     "first": false
   }

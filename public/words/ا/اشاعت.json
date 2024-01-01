@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "اِشاعتِ",
-    "after": "اسلام فرنگستان میں",
-    "line": 1,
+    "line": "اِشاعتِ اسلام فرنگستان میں",
+    "start": 0,
+    "end": 7,
+    "line_number": 1,
     "file": 452,
     "first": false
   }

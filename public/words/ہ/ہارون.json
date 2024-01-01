@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "ہارون",
-    "after": "کی آخری نصیحت",
-    "line": 1,
+    "line": "ہارون کی آخری نصیحت",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 379,
     "first": false
   }

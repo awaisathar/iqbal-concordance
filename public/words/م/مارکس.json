@@ -1,9 +1,9 @@
 [
   {
-    "before": "کارل",
-    "word": "مارکس",
-    "after": "کی آواز",
-    "line": 1,
+    "line": "کارل مارکس کی آواز",
+    "start": 5,
+    "end": 10,
+    "line_number": 1,
     "file": 543,
     "first": false
   }

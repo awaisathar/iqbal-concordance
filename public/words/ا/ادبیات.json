@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "ادبیات",
-    "after": "(فنُونِ لطیِفہ)",
-    "line": 1,
+    "line": "ادبیات (فنُونِ لطیِفہ)",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 497,
     "first": false
   },
   {
-    "before": "",
-    "word": "ادبیات",
-    "after": "",
-    "line": 1,
+    "line": "ادبیات",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 503,
     "first": false
   }

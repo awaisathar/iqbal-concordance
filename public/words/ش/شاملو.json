@@ -1,9 +1,9 @@
 [
   {
-    "before": "تضمین بر شعرِ انیسی",
-    "word": "شاملوؔ",
-    "after": "",
-    "line": 1,
+    "line": "تضمین بر شعرِ انیسی شاملوؔ",
+    "start": 20,
+    "end": 26,
+    "line_number": 1,
     "file": 99,
     "first": false
   }

@@ -1,9 +1,9 @@
 [
   {
-    "before": "جنگِ",
-    "word": "یرموک",
-    "after": "کا ایک واقعہ",
-    "line": 1,
+    "line": "جنگِ یرموک کا ایک واقعہ",
+    "start": 5,
+    "end": 10,
+    "line_number": 1,
     "file": 152,
     "first": false
   }

@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "مسعود",
-    "after": "مرحوم",
-    "line": 1,
+    "line": "مسعود مرحوم",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 604,
     "first": false
   },
   {
-    "before": "وہ کارواں کا متاعِ گراں بہا",
-    "word": "مسعود",
-    "after": "!",
-    "line": 10,
+    "line": "وہ کارواں کا متاعِ گراں بہا مسعود!",
+    "start": 28,
+    "end": 33,
+    "line_number": 10,
     "file": 604,
     "first": false,
     "other": "زوالِ علم و ہُنر مرگِ ناگہاں اُس کی"

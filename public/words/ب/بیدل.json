@@ -1,17 +1,17 @@
 [
   {
-    "before": "مِرزا",
-    "word": "بیدلؔ",
-    "after": "",
-    "line": 1,
+    "line": "مِرزا بیدلؔ",
+    "start": 6,
+    "end": 11,
+    "line_number": 1,
     "file": 523,
     "first": false
   },
   {
-    "before": "میرزا",
-    "word": "بیدلؔ",
-    "after": "نے کس خوبی سے کھولی یہ گرہ",
-    "line": 7,
+    "line": "میرزا بیدلؔ نے کس خوبی سے کھولی یہ گرہ",
+    "start": 6,
+    "end": 11,
+    "line_number": 7,
     "file": 523,
     "first": true,
     "other": "اہلِ حکمت پر بہت مشکل رہی جس کی کشود!"

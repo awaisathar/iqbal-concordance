@@ -1,17 +1,17 @@
 [
   {
-    "before": "نیا",
-    "word": "شِوالا",
-    "after": "",
-    "line": 1,
+    "line": "نیا شِوالا",
+    "start": 4,
+    "end": 10,
+    "line_number": 1,
     "file": 43,
     "first": false
   },
   {
-    "before": "آ، اک نیا",
-    "word": "شِوالا",
-    "after": "اس دیس میں بنا دیں",
-    "line": 15,
+    "line": "آ، اک نیا شِوالا اس دیس میں بنا دیں",
+    "start": 10,
+    "end": 16,
+    "line_number": 15,
     "file": 43,
     "first": false,
     "other": "سُونی پڑی ہوئی ہے مدّت سے دل کی بستی"

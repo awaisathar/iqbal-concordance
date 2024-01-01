@@ -1,18 +1,18 @@
 [
   {
-    "before": "",
-    "word": "جُستجوے",
-    "after": "اہلِ دل بگذاشتی",
-    "line": 177,
+    "line": "جُستجوے اہلِ دل بگذاشتی",
+    "start": 0,
+    "end": 7,
+    "line_number": 177,
     "file": 345,
     "first": true,
     "other": ""
   },
   {
-    "before": "سوز و ساز و درد و داغ و",
-    "word": "جستجوے",
-    "after": "و آرزو",
-    "line": 7,
+    "line": "سوز و ساز و درد و داغ و جستجوے و آرزو",
+    "start": 24,
+    "end": 30,
+    "line_number": 7,
     "file": 347,
     "first": true,
     "other": ""

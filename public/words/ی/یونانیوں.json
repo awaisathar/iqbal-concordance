@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "یُونانیوں",
-    "after": "کو جس نے حیران کر دیا تھا",
-    "line": 9,
+    "line": "یُونانیوں کو جس نے حیران کر دیا تھا",
+    "start": 0,
+    "end": 9,
+    "line_number": 9,
     "file": 42,
     "first": false,
     "other": ""

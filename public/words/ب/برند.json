@@ -1,9 +1,9 @@
 [
   {
-    "before": "چوں جنازہ نے کہ بر گردن",
-    "word": "برند",
-    "after": "",
-    "line": 137,
+    "line": "چوں جنازہ نے کہ بر گردن برند",
+    "start": 24,
+    "end": 28,
+    "line_number": 137,
     "file": 345,
     "first": true,
     "other": ""

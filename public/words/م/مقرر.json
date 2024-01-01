@@ -1,9 +1,9 @@
 [
   {
-    "before": "ہر ایک کی راہ ہے",
-    "word": "مقرّر",
-    "after": "",
-    "line": 13,
+    "line": "ہر ایک کی راہ ہے مقرّر",
+    "start": 17,
+    "end": 22,
+    "line_number": 13,
     "file": 96,
     "first": false,
     "other": "گردش تاروں کا ہے مقدّر"

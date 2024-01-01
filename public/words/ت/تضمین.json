@@ -1,25 +1,25 @@
 [
   {
-    "before": "",
-    "word": "تضمین",
-    "after": "بر شعرِ انیسی شاملوؔ",
-    "line": 1,
+    "line": "تضمین بر شعرِ انیسی شاملوؔ",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 99,
     "first": false
   },
   {
-    "before": "",
-    "word": "تضمین",
-    "after": "بر شعرِ ابوطالب کلیمؔ",
-    "line": 1,
+    "line": "تضمین بر شعرِ ابوطالب کلیمؔ",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 135,
     "first": false
   },
   {
-    "before": "",
-    "word": "تضمین",
-    "after": "بر شعرِ صائبؔ",
-    "line": 1,
+    "line": "تضمین بر شعرِ صائبؔ",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 149,
     "first": false
   }

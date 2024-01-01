@@ -1,17 +1,17 @@
 [
   {
-    "before": "ابی",
-    "word": "سِینیا",
-    "after": "",
-    "line": 1,
+    "line": "ابی سِینیا",
+    "start": 4,
+    "end": 10,
+    "line_number": 1,
     "file": 556,
     "first": false
   },
   {
-    "before": "ہے کتنی زہر ناک ابی",
-    "word": "سِینیا",
-    "after": "کی لاش",
-    "line": 4,
+    "line": "ہے کتنی زہر ناک ابی سِینیا کی لاش",
+    "start": 20,
+    "end": 26,
+    "line_number": 4,
     "file": 556,
     "first": false,
     "other": "یورپ کے کرگسوں کو نہیں ہے ابھی خبر"

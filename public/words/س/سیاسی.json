@@ -1,26 +1,26 @@
 [
   {
-    "before": "آغاز ہے ہمارے",
-    "word": "سیاسی",
-    "after": "کمال کا",
-    "line": 4,
+    "line": "آغاز ہے ہمارے سیاسی کمال کا",
+    "start": 14,
+    "end": 19,
+    "line_number": 4,
     "file": 185,
     "first": false,
     "other": "ہندوستاں میں جزوِ حکومت ہیں کونسلیں"
   },
   {
-    "before": "اِبلیس کا فرمان اپنے",
-    "word": "سیاسی",
-    "after": "فرزندوں کے نام",
-    "line": 1,
+    "line": "اِبلیس کا فرمان اپنے سیاسی فرزندوں کے نام",
+    "start": 21,
+    "end": 26,
+    "line_number": 1,
     "file": 557,
     "first": false
   },
   {
-    "before": "",
-    "word": "سیاسی",
-    "after": "پیشوا",
-    "line": 1,
+    "line": "سیاسی پیشوا",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 571,
     "first": false
   }

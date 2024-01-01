@@ -1,9 +1,9 @@
 [
   {
-    "before": "میراث نہیں بلند",
-    "word": "نامی",
-    "after": "",
-    "line": 43,
+    "line": "میراث نہیں بلند نامی",
+    "start": 16,
+    "end": 20,
+    "line_number": 43,
     "file": 486,
     "first": false,
     "other": "اللہ کی دین ہے، جسے دے"

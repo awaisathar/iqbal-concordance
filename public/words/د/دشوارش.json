@@ -1,9 +1,9 @@
 [
   {
-    "before": "بر زمیں رفتن چہ",
-    "word": "دشوارش",
-    "after": "بود",
-    "line": 189,
+    "line": "بر زمیں رفتن چہ دشوارش بود",
+    "start": 16,
+    "end": 22,
+    "line_number": 189,
     "file": 345,
     "first": true,
     "other": ""

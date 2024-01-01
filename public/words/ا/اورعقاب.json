@@ -1,9 +1,9 @@
 [
   {
-    "before": "چیونٹی",
-    "word": "اورعقاب",
-    "after": "",
-    "line": 1,
+    "line": "چیونٹی اورعقاب",
+    "start": 7,
+    "end": 14,
+    "line_number": 1,
     "file": 384,
     "first": false
   }

@@ -1,9 +1,9 @@
 [
   {
-    "before": "(ماخوذ از",
-    "word": "جرمن",
-    "after": ")",
-    "line": 10,
+    "line": "(ماخوذ از جرمن)",
+    "start": 10,
+    "end": 14,
+    "line_number": 10,
     "file": 383,
     "first": true
   }

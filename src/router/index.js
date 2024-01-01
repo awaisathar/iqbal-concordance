@@ -19,7 +19,7 @@ const router = createRouter({
       props: true
     },
     {
-      path: '/poem/:id/:l/:w',
+      path: '/poem/:id/:line/:start/:end',
       name: 'poem',
       component: PoemView,
       props: true

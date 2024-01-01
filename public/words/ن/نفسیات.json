@@ -1,33 +1,33 @@
 [
   {
-    "before": "ماہرِ",
-    "word": "نفسیات",
-    "after": "سے",
-    "line": 1,
+    "line": "ماہرِ نفسیات سے",
+    "start": 6,
+    "end": 12,
+    "line_number": 1,
     "file": 380,
     "first": false
   },
   {
-    "before": "",
-    "word": "نفسیاتِ",
-    "after": "غلامی",
-    "line": 1,
+    "line": "نفسیاتِ غلامی",
+    "start": 0,
+    "end": 7,
+    "line_number": 1,
     "file": 548,
     "first": false
   },
   {
-    "before": "",
-    "word": "نفسیاتِ",
-    "after": "غلامی",
-    "line": 1,
+    "line": "نفسیاتِ غلامی",
+    "start": 0,
+    "end": 7,
+    "line_number": 1,
     "file": 572,
     "first": false
   },
   {
-    "before": "",
-    "word": "نفسیاتِ",
-    "after": "حاکمی",
-    "line": 1,
+    "line": "نفسیاتِ حاکمی",
+    "start": 0,
+    "end": 7,
+    "line_number": 1,
     "file": 576,
     "first": false
   }

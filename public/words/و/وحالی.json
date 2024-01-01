@@ -1,9 +1,9 @@
 [
   {
-    "before": "شبلیؔ",
-    "word": "وحالیؔ",
-    "after": "",
-    "line": 1,
+    "line": "شبلیؔ وحالیؔ",
+    "start": 6,
+    "end": 12,
+    "line_number": 1,
     "file": 136,
     "first": false
   }

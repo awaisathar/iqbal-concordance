@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "امُرَائے",
-    "after": "عرب سے",
-    "line": 1,
+    "line": "امُرَائے عرب سے",
+    "start": 0,
+    "end": 8,
+    "line_number": 1,
     "file": 454,
     "first": false
   },
   {
-    "before": "اگر نہ ہو",
-    "word": "اُمَرائے",
-    "after": "عرب کی بےادبی!",
-    "line": 4,
+    "line": "اگر نہ ہو اُمَرائے عرب کی بےادبی!",
+    "start": 10,
+    "end": 18,
+    "line_number": 4,
     "file": 454,
     "first": false,
     "other": "کرے یہ کافرِ ہندی بھی جُرأتِ گُفتار"

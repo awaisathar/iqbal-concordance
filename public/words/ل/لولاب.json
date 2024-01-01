@@ -1,41 +1,41 @@
 [
   {
-    "before": "اے وادیِ",
-    "word": "لولاب",
-    "after": "!",
-    "line": 5,
+    "line": "اے وادیِ لولاب!",
+    "start": 9,
+    "end": 14,
+    "line_number": 5,
     "file": 621,
     "first": true
   },
   {
-    "before": "اے وادیِ",
-    "word": "لولاب",
-    "after": "!",
-    "line": 9,
+    "line": "اے وادیِ لولاب!",
+    "start": 9,
+    "end": 14,
+    "line_number": 9,
     "file": 621,
     "first": true
   },
   {
-    "before": "اے وادیِ",
-    "word": "لولاب",
-    "after": "!",
-    "line": 13,
+    "line": "اے وادیِ لولاب!",
+    "start": 9,
+    "end": 14,
+    "line_number": 13,
     "file": 621,
     "first": true
   },
   {
-    "before": "اے وادیِ",
-    "word": "لولاب",
-    "after": "!",
-    "line": 17,
+    "line": "اے وادیِ لولاب!",
+    "start": 9,
+    "end": 14,
+    "line_number": 17,
     "file": 621,
     "first": true
   },
   {
-    "before": "اے وادیِ",
-    "word": "لولاب",
-    "after": "!",
-    "line": 21,
+    "line": "اے وادیِ لولاب!",
+    "start": 9,
+    "end": 14,
+    "line_number": 21,
     "file": 621,
     "first": true
   }

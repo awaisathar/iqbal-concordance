@@ -1,9 +1,9 @@
 [
   {
-    "before": "سوامی رام تیر",
-    "word": "تھ",
-    "after": "",
-    "line": 1,
+    "line": "سوامی رام تیر تھ",
+    "start": 14,
+    "end": 16,
+    "line_number": 1,
     "file": 66,
     "first": false
   }

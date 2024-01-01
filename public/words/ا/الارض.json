@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "اَلْاَرْضُ",
-    "after": "للہ!",
-    "line": 1,
+    "line": "اَلْاَرْضُ للہ!",
+    "start": 0,
+    "end": 10,
+    "line_number": 1,
     "file": 335,
     "first": false
   }

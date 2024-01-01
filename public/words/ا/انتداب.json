@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "اِنتداب",
-    "after": "",
-    "line": 1,
+    "line": "اِنتداب",
+    "start": 0,
+    "end": 7,
+    "line_number": 1,
     "file": 564,
     "first": false
   }

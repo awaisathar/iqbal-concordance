@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "ناظرین",
-    "after": "سے",
-    "line": 1,
+    "line": "ناظرین سے",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 388,
     "first": false
   }

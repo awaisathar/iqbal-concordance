@@ -1,9 +1,9 @@
 [
   {
-    "before": "مسجدِ قُوّت",
-    "word": "الاسلام",
-    "after": "",
-    "line": 1,
+    "line": "مسجدِ قُوّت الاسلام",
+    "start": 12,
+    "end": 19,
+    "line_number": 1,
     "file": 505,
     "first": false
   }

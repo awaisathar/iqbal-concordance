@@ -1,9 +1,9 @@
 [
   {
-    "before": "فاطمہ بنت",
-    "word": "عبداللہ",
-    "after": "",
-    "line": 1,
+    "line": "فاطمہ بنت عبداللہ",
+    "start": 10,
+    "end": 17,
+    "line_number": 1,
     "file": 129,
     "first": false
   }

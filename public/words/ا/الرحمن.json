@@ -1,25 +1,25 @@
 [
   {
-    "before": "بسم اللہ",
-    "word": "الرحمن",
-    "after": "الرحیم",
-    "line": 1,
+    "line": "بسم اللہ الرحمن الرحیم",
+    "start": 9,
+    "end": 15,
+    "line_number": 1,
     "file": 203,
     "first": false
   },
   {
-    "before": "بسم اللہ",
-    "word": "الرحمن",
-    "after": "الرحیم",
-    "line": 1,
+    "line": "بسم اللہ الرحمن الرحیم",
+    "start": 9,
+    "end": 15,
+    "line_number": 1,
     "file": 315,
     "first": false
   },
   {
-    "before": "عبد",
-    "word": "الرّحمٰن",
-    "after": "اوّل کا بویا ہُوا کھجور کا پہلا درخت",
-    "line": 1,
+    "line": "عبد الرّحمٰن اوّل کا بویا ہُوا کھجور کا پہلا درخت",
+    "start": 4,
+    "end": 12,
+    "line_number": 1,
     "file": 319,
     "first": false
   }

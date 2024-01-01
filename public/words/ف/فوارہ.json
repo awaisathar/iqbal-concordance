@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "فوّارہ",
-    "after": "",
-    "line": 1,
+    "line": "فوّارہ",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 528,
     "first": false
   },
   {
-    "before": "بلند زورِ درُوں سے ہُوا ہے",
-    "word": "فوّارہ",
-    "after": "",
-    "line": 6,
+    "line": "بلند زورِ درُوں سے ہُوا ہے فوّارہ",
+    "start": 27,
+    "end": 33,
+    "line_number": 6,
     "file": 528,
     "first": false,
     "other": "اُدھر نہ دیکھ، اِدھر دیکھ اے جوانِ عزیز"

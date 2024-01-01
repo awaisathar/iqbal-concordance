@@ -1,9 +1,9 @@
 [
   {
-    "before": "لاہور و",
-    "word": "کراچی",
-    "after": "",
-    "line": 1,
+    "line": "لاہور و کراچی",
+    "start": 8,
+    "end": 13,
+    "line_number": 1,
     "file": 443,
     "first": false
   }

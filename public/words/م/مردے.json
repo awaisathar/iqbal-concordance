@@ -1,9 +1,9 @@
 [
   {
-    "before": "( اپنے",
-    "word": "مُردے",
-    "after": "سے)",
-    "line": 28,
+    "line": "( اپنے مُردے سے)",
+    "start": 7,
+    "end": 12,
+    "line_number": 28,
     "file": 601,
     "first": true
   }

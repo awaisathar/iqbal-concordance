@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "شیکسپیئر",
-    "after": "",
-    "line": 1,
+    "line": "شیکسپیئر",
+    "start": 0,
+    "end": 8,
+    "line_number": 1,
     "file": 157,
     "first": false
   }

@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "جمہُوریت",
-    "after": "",
-    "line": 1,
+    "line": "جمہُوریت",
+    "start": 0,
+    "end": 8,
+    "line_number": 1,
     "file": 560,
     "first": false
   },
   {
-    "before": "",
-    "word": "جمہُوریت",
-    "after": "اک طرزِ حکومت ہے کہ جس میں",
-    "line": 5,
+    "line": "جمہُوریت اک طرزِ حکومت ہے کہ جس میں",
+    "start": 0,
+    "end": 8,
+    "line_number": 5,
     "file": 560,
     "first": true,
     "other": "بُندوں کو گِنا کرتے ہیں، تولا نہیں کرتے!"

@@ -1,17 +1,17 @@
 [
   {
-    "before": "نا",
-    "word": "لۂ",
-    "after": "فراق",
-    "line": 1,
+    "line": "نا لۂ فراق",
+    "start": 3,
+    "end": 5,
+    "line_number": 1,
     "file": 35,
     "first": false
   },
   {
-    "before": "اُتر گیا جو ترے دل میں ’لَاشَرِیکَ",
-    "word": "لَہٗ",
-    "after": "‘",
-    "line": 8,
+    "line": "اُتر گیا جو ترے دل میں ’لَاشَرِیکَ لَہٗ‘",
+    "start": 35,
+    "end": 39,
+    "line_number": 8,
     "file": 579,
     "first": false,
     "other": "رہے گا تُو ہی جہاں میں یگانہ و یکتا"

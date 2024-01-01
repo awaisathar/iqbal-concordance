@@ -1,9 +1,9 @@
 [
   {
-    "before": "پنچاب کے",
-    "word": "پِیرزادوں",
-    "after": "سے",
-    "line": 1,
+    "line": "پنچاب کے پِیرزادوں سے",
+    "start": 9,
+    "end": 18,
+    "line_number": 1,
     "file": 366,
     "first": false
   }

@@ -1,41 +1,41 @@
 [
   {
-    "before": "",
-    "word": "قطعہ",
-    "after": "",
-    "line": 1,
+    "line": "قطعہ",
+    "start": 0,
+    "end": 4,
+    "line_number": 1,
     "file": 105,
     "first": false
   },
   {
-    "before": "",
-    "word": "قطعہ",
-    "after": "",
-    "line": 1,
+    "line": "قطعہ",
+    "start": 0,
+    "end": 4,
+    "line_number": 1,
     "file": 339,
     "first": false
   },
   {
-    "before": "",
-    "word": "قطعہ",
-    "after": "",
-    "line": 1,
+    "line": "قطعہ",
+    "start": 0,
+    "end": 4,
+    "line_number": 1,
     "file": 344,
     "first": false
   },
   {
-    "before": "",
-    "word": "قطعہ",
-    "after": "",
-    "line": 1,
+    "line": "قطعہ",
+    "start": 0,
+    "end": 4,
+    "line_number": 1,
     "file": 348,
     "first": false
   },
   {
-    "before": "",
-    "word": "قطعہ",
-    "after": "",
-    "line": 1,
+    "line": "قطعہ",
+    "start": 0,
+    "end": 4,
+    "line_number": 1,
     "file": 350,
     "first": false
   }

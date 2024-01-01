@@ -1,18 +1,18 @@
 [
   {
-    "before": "بچۂ شاہیں سے کہتا تھا",
-    "word": "عقابِ",
-    "after": "سالخورد",
-    "line": 3,
+    "line": "بچۂ شاہیں سے کہتا تھا عقابِ سالخورد",
+    "start": 22,
+    "end": 27,
+    "line_number": 3,
     "file": 337,
     "first": true,
     "other": "اے ترے شہپر پہ آساں رفعتِ چرخِ بریں"
   },
   {
-    "before": "",
-    "word": "عقاب",
-    "after": ":",
-    "line": 7,
+    "line": "عقاب:",
+    "start": 0,
+    "end": 4,
+    "line_number": 7,
     "file": 384,
     "first": true
   }

@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "گورستانِ",
-    "after": "شاہی",
-    "line": 1,
+    "line": "گورستانِ شاہی",
+    "start": 0,
+    "end": 8,
+    "line_number": 1,
     "file": 97,
     "first": false
   },
   {
-    "before": "یہ خموشی اس کے ہنگاموں کا",
-    "word": "گورستان",
-    "after": "ہے",
-    "line": 15,
+    "line": "یہ خموشی اس کے ہنگاموں کا گورستان ہے",
+    "start": 26,
+    "end": 33,
+    "line_number": 15,
     "file": 97,
     "first": false,
     "other": "زندگی سے تھا کبھی معمور، اب سنسان ہے"

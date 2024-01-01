@@ -1,18 +1,18 @@
 [
   {
-    "before": "",
-    "word": "ناصبوری",
-    "after": "ہے زندگی دل کی",
-    "line": 18,
+    "line": "ناصبوری ہے زندگی دل کی",
+    "start": 0,
+    "end": 7,
+    "line_number": 18,
     "file": 251,
     "first": true,
     "other": "آہ وہ دل کہ ناصبور نہیں"
   },
   {
-    "before": "کیا جانیں فراق و",
-    "word": "ناصبوری",
-    "after": "",
-    "line": 8,
+    "line": "کیا جانیں فراق و ناصبوری",
+    "start": 17,
+    "end": 24,
+    "line_number": 8,
     "file": 370,
     "first": false,
     "other": "دریا، کُہسار، چاند، تارے"

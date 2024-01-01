@@ -1,9 +1,9 @@
 [
   {
-    "before": "اِنسان اور بزمِ",
-    "word": "قُد",
-    "after": "رت",
-    "line": 1,
+    "line": "اِنسان اور بزمِ قُد رت",
+    "start": 16,
+    "end": 19,
+    "line_number": 1,
     "file": 25,
     "first": false
   }

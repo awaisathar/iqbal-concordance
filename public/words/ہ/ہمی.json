@@ -1,9 +1,9 @@
 [
   {
-    "before": "تُو",
-    "word": "ہمی",
-    "after": "گوئی مرا دل نیز ہست",
-    "line": 174,
+    "line": "تُو ہمی گوئی مرا دل نیز ہست",
+    "start": 4,
+    "end": 7,
+    "line_number": 174,
     "file": 345,
     "first": false,
     "other": "پیرِرومی"

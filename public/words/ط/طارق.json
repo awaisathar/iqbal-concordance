@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "طارق",
-    "after": "کی دُعا",
-    "line": 1,
+    "line": "طارق کی دُعا",
+    "start": 0,
+    "end": 4,
+    "line_number": 1,
     "file": 323,
     "first": false
   }

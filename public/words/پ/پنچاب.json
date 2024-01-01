@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "پنچاب",
-    "after": "کے دہقان سے",
-    "line": 1,
+    "line": "پنچاب کے دہقان سے",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 359,
     "first": false
   },
   {
-    "before": "",
-    "word": "پنچاب",
-    "after": "کے پِیرزادوں سے",
-    "line": 1,
+    "line": "پنچاب کے پِیرزادوں سے",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 366,
     "first": false
   }

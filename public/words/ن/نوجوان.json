@@ -1,18 +1,18 @@
 [
   {
-    "before": "اک",
-    "word": "نوجوان",
-    "after": "صُورتِ سیماب مُضطرب",
-    "line": 6,
+    "line": "اک نوجوان صُورتِ سیماب مُضطرب",
+    "start": 3,
+    "end": 9,
+    "line_number": 6,
     "file": 152,
     "first": true,
     "other": "آ کر ہُوا امیرِ عساکر سے ہم کلام"
   },
   {
-    "before": "ایک",
-    "word": "نوجوان",
-    "after": "کے نام",
-    "line": 1,
+    "line": "ایک نوجوان کے نام",
+    "start": 4,
+    "end": 10,
+    "line_number": 1,
     "file": 336,
     "first": false
   }

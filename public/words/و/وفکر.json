@@ -1,9 +1,9 @@
 [
   {
-    "before": "ذِکر",
-    "word": "وفِکر",
-    "after": "",
-    "line": 1,
+    "line": "ذِکر وفِکر",
+    "start": 5,
+    "end": 10,
+    "line_number": 1,
     "file": 401,
     "first": false
   }

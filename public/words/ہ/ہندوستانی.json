@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "ہندوستانی",
-    "after": "بچوں کا قومی گیت",
-    "line": 1,
+    "line": "ہندوستانی بچوں کا قومی گیت",
+    "start": 0,
+    "end": 9,
+    "line_number": 1,
     "file": 42,
     "first": false
   }

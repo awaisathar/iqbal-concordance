@@ -1,9 +1,9 @@
 [
   {
-    "before": "زیرکی",
-    "word": "بفروش",
-    "after": "و حیرانی بخر",
-    "line": 104,
+    "line": "زیرکی بفروش و حیرانی بخر",
+    "start": 6,
+    "end": 11,
+    "line_number": 104,
     "file": 345,
     "first": false,
     "other": "پیرِرومی"

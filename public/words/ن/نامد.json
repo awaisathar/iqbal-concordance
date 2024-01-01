@@ -1,9 +1,9 @@
 [
   {
-    "before": "تا دلِ صاحبدلے",
-    "word": "نامد",
-    "after": "بہ درد",
-    "line": 96,
+    "line": "تا دلِ صاحبدلے نامد بہ درد",
+    "start": 15,
+    "end": 19,
+    "line_number": 96,
     "file": 345,
     "first": false,
     "other": "پیرِرومی"

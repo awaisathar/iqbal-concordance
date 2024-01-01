@@ -1,17 +1,17 @@
 [
   {
-    "before": "خوشحال خاںکی",
-    "word": "وصیّت",
-    "after": "*",
-    "line": 1,
+    "line": "خوشحال خاںکی وصیّت*",
+    "start": 13,
+    "end": 18,
+    "line_number": 1,
     "file": 361,
     "first": false
   },
   {
-    "before": "سُلطان ٹِیپُو کی",
-    "word": "وصیّت",
-    "after": "",
-    "line": 1,
+    "line": "سُلطان ٹِیپُو کی وصیّت",
+    "start": 17,
+    "end": 22,
+    "line_number": 1,
     "file": 466,
     "first": false
   }

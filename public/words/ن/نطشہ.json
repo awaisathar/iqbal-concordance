@@ -1,17 +1,17 @@
 [
   {
-    "before": "(ماخوذاز",
-    "word": "نطشہ",
-    "after": ")",
-    "line": 7,
+    "line": "(ماخوذاز نطشہ)",
+    "start": 9,
+    "end": 13,
+    "line_number": 7,
     "file": 381,
     "first": true
   },
   {
-    "before": "حکیم",
-    "word": "نطشہ",
-    "after": "",
-    "line": 1,
+    "line": "حکیم نطشہ",
+    "start": 5,
+    "end": 9,
+    "line_number": 1,
     "file": 482,
     "first": false
   }

@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "شبلیؔ",
-    "after": "وحالیؔ",
-    "line": 1,
+    "line": "شبلیؔ وحالیؔ",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 136,
     "first": false
   },
   {
-    "before": "",
-    "word": "شبلیؔ",
-    "after": "کو رو رہے تھے ابھی اہلِ گلستاں",
-    "line": 27,
+    "line": "شبلیؔ کو رو رہے تھے ابھی اہلِ گلستاں",
+    "start": 0,
+    "end": 5,
+    "line_number": 27,
     "file": 136,
     "first": true,
     "other": "حالیؔ بھی ہو گیا سوئے فردوس رہ نورد"

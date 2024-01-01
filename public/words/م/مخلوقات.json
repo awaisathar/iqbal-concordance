@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "مخلوقاتِ",
-    "after": "ہُنر",
-    "line": 1,
+    "line": "مخلوقاتِ ہُنر",
+    "start": 0,
+    "end": 8,
+    "line_number": 1,
     "file": 516,
     "first": false
   }

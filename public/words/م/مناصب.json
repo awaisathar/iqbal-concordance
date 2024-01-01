@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "مناصب",
-    "after": "",
-    "line": 1,
+    "line": "مناصب",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 546,
     "first": false
   },
   {
-    "before": "ترے بلند",
-    "word": "مناصب",
-    "after": "کی خیر ہو یا رب",
-    "line": 5,
+    "line": "ترے بلند مناصب کی خیر ہو یا رب",
+    "start": 9,
+    "end": 14,
+    "line_number": 5,
     "file": 546,
     "first": true,
     "other": "کہ ان کے واسطے تُو نے کِیا خودی کو ہلاک"

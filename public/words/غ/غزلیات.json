@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "غزلیات",
-    "after": "",
-    "line": 1,
+    "line": "غزلیات",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 164,
     "first": false
   }

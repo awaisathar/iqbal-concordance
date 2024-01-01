@@ -1,9 +1,9 @@
 [
   {
-    "before": "دِین",
-    "word": "وہُنر",
-    "after": "",
-    "line": 1,
+    "line": "دِین وہُنر",
+    "start": 5,
+    "end": 10,
+    "line_number": 1,
     "file": 498,
     "first": false
   }

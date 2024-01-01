@@ -1,9 +1,9 @@
 [
   {
-    "before": "ستارے",
-    "word": "کاپیغام",
-    "after": "",
-    "line": 1,
+    "line": "ستارے کاپیغام",
+    "start": 6,
+    "end": 13,
+    "line_number": 1,
     "file": 352,
     "first": false
   }

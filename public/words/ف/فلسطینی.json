@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "فلسطِینی",
-    "after": "عرب سے",
-    "line": 1,
+    "line": "فلسطِینی عرب سے",
+    "start": 0,
+    "end": 8,
+    "line_number": 1,
     "file": 574,
     "first": false
   }

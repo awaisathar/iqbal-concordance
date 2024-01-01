@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "پیرس",
-    "after": "کی مسجد",
-    "line": 1,
+    "line": "پیرس کی مسجد",
+    "start": 0,
+    "end": 4,
+    "line_number": 1,
     "file": 502,
     "first": false
   }

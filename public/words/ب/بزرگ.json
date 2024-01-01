@@ -1,18 +1,18 @@
 [
   {
-    "before": "“جاے کہ",
-    "word": "بزرگ",
-    "after": "بایدت بود",
-    "line": 46,
+    "line": "“جاے کہ بزرگ بایدت بود",
+    "start": 8,
+    "end": 12,
+    "line_number": 46,
     "file": 486,
     "first": true,
     "other": "فرزندی من نداردت سود”"
   },
   {
-    "before": "مردِ",
-    "word": "بزرگ",
-    "after": "",
-    "line": 1,
+    "line": "مردِ بزرگ",
+    "start": 5,
+    "end": 9,
+    "line_number": 1,
     "file": 532,
     "first": false
   }

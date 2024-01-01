@@ -1,9 +1,9 @@
 [
   {
-    "before": "(",
-    "word": "ماخوذاز",
-    "after": "نطشہ)",
-    "line": 7,
+    "line": "(ماخوذاز نطشہ)",
+    "start": 1,
+    "end": 8,
+    "line_number": 7,
     "file": 381,
     "first": true
   }

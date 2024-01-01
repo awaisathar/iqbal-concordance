@@ -1,18 +1,18 @@
 [
   {
-    "before": "تہی دست",
-    "word": "رفتن",
-    "after": "سوئے دوستاں‘",
-    "line": 4,
+    "line": "تہی دست رفتن سوئے دوستاں‘",
+    "start": 8,
+    "end": 12,
+    "line_number": 4,
     "file": 329,
     "first": false,
     "other": "’دریغ آمدم زاں ہمہ بوستاں"
   },
   {
-    "before": "بر زمیں",
-    "word": "رفتن",
-    "after": "چہ دشوارش بود",
-    "line": 189,
+    "line": "بر زمیں رفتن چہ دشوارش بود",
+    "start": 8,
+    "end": 12,
+    "line_number": 189,
     "file": 345,
     "first": true,
     "other": ""

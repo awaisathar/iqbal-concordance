@@ -1,17 +1,17 @@
 [
   {
-    "before": "(ماخوذ از",
-    "word": "انوریؔ",
-    "after": ")",
-    "line": 14,
+    "line": "(ماخوذ از انوریؔ)",
+    "start": 10,
+    "end": 16,
+    "line_number": 14,
     "file": 332,
     "first": true
   },
   {
-    "before": "صد",
-    "word": "انوریؔ",
-    "after": "و ہزار جامیؔ!",
-    "line": 37,
+    "line": "صد انوریؔ و ہزار جامیؔ!",
+    "start": 3,
+    "end": 9,
+    "line_number": 37,
     "file": 486,
     "first": false,
     "other": "نایاب نہیں متاعِ گُفتار"

@@ -1,9 +1,9 @@
 [
   {
-    "before": "اِبلیس کی",
-    "word": "عرضداشت",
-    "after": "",
-    "line": 1,
+    "line": "اِبلیس کی عرضداشت",
+    "start": 10,
+    "end": 17,
+    "line_number": 1,
     "file": 372,
     "first": false
   }

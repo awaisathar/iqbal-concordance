@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "نویدِ",
-    "after": "صبح",
-    "line": 1,
+    "line": "نویدِ صبح",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 126,
     "first": false
   }

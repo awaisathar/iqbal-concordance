@@ -1,27 +1,27 @@
 [
   {
-    "before": "سب",
-    "word": "فلسفی",
-    "after": "ہیں خطّۂ مغرب کے رامِ ہند",
-    "line": 4,
+    "line": "سب فلسفی ہیں خطّۂ مغرب کے رامِ ہند",
+    "start": 3,
+    "end": 8,
+    "line_number": 4,
     "file": 112,
     "first": false,
     "other": "لبریز ہے شرابِ حقیقت سے جامِ ہند"
   },
   {
-    "before": "نہ",
-    "word": "فلسفی",
-    "after": "سے، نہ مُلّا سے ہے غرض مجھ کو",
-    "line": 9,
+    "line": "نہ فلسفی سے، نہ مُلّا سے ہے غرض مجھ کو",
+    "start": 3,
+    "end": 8,
+    "line_number": 9,
     "file": 281,
     "first": true,
     "other": "یہ دل کی موت، وہ اندیشہ و نظر کا فساد"
   },
   {
-    "before": "",
-    "word": "فلسفی",
-    "after": "",
-    "line": 1,
+    "line": "فلسفی",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 376,
     "first": false
   }

@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "شفاخانۂ",
-    "after": "حجاز",
-    "line": 1,
+    "line": "شفاخانۂ حجاز",
+    "start": 0,
+    "end": 7,
+    "line_number": 1,
     "file": 120,
     "first": false
   },
   {
-    "before": "کھُلنے کو جدّہ میں ہے",
-    "word": "شفاخانۂ",
-    "after": "حجاز",
-    "line": 4,
+    "line": "کھُلنے کو جدّہ میں ہے شفاخانۂ حجاز",
+    "start": 22,
+    "end": 29,
+    "line_number": 4,
     "file": 120,
     "first": false,
     "other": "اک پیشوائے قوم نے اقبالؔ سے کہا"

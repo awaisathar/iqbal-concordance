@@ -1,26 +1,26 @@
 [
   {
-    "before": "",
-    "word": "لطیفۂ",
-    "after": "ازَلی ہے فغانِ چنگ و رباب",
-    "line": 10,
+    "line": "لطیفۂ ازَلی ہے فغانِ چنگ و رباب",
+    "start": 0,
+    "end": 5,
+    "line_number": 10,
     "file": 244,
     "first": false,
     "other": "جہانِ صوت و صدا میں سما نہیں سکتی"
   },
   {
-    "before": "ادبیات (فنُونِ",
-    "word": "لطیِفہ",
-    "after": ")",
-    "line": 1,
+    "line": "ادبیات (فنُونِ لطیِفہ)",
+    "start": 15,
+    "end": 21,
+    "line_number": 1,
     "file": 497,
     "first": false
   },
   {
-    "before": "فنونِ",
-    "word": "لطیفہ",
-    "after": "",
-    "line": 1,
+    "line": "فنونِ لطیفہ",
+    "start": 6,
+    "end": 11,
+    "line_number": 1,
     "file": 518,
     "first": false
   }

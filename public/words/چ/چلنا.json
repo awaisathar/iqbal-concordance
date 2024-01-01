@@ -1,36 +1,36 @@
 [
   {
-    "before": "کام اپنا ہے صبح و شام",
-    "word": "چلنا",
-    "after": "",
-    "line": 7,
+    "line": "کام اپنا ہے صبح و شام چلنا",
+    "start": 22,
+    "end": 26,
+    "line_number": 7,
     "file": 72,
     "first": true,
     "other": "چلنا، چلنا، مدام چلنا"
   },
   {
-    "before": "",
-    "word": "چلنا",
-    "after": "، چلنا، مدام چلنا",
-    "line": 8,
+    "line": "چلنا، چلنا، مدام چلنا",
+    "start": 0,
+    "end": 4,
+    "line_number": 8,
     "file": 72,
     "first": false,
     "other": "کام اپنا ہے صبح و شام چلنا"
   },
   {
-    "before": "چلنا،",
-    "word": "چلنا",
-    "after": "، مدام چلنا",
-    "line": 8,
+    "line": "چلنا، چلنا، مدام چلنا",
+    "start": 6,
+    "end": 10,
+    "line_number": 8,
     "file": 72,
     "first": false,
     "other": "کام اپنا ہے صبح و شام چلنا"
   },
   {
-    "before": "چلنا، چلنا، مدام",
-    "word": "چلنا",
-    "after": "",
-    "line": 8,
+    "line": "چلنا، چلنا، مدام چلنا",
+    "start": 17,
+    "end": 21,
+    "line_number": 8,
     "file": 72,
     "first": false,
     "other": "کام اپنا ہے صبح و شام چلنا"

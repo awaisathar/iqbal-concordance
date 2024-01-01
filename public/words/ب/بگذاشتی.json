@@ -1,9 +1,9 @@
 [
   {
-    "before": "جُستجوے اہلِ دل",
-    "word": "بگذاشتی",
-    "after": "",
-    "line": 177,
+    "line": "جُستجوے اہلِ دل بگذاشتی",
+    "start": 16,
+    "end": 23,
+    "line_number": 177,
     "file": 345,
     "first": true,
     "other": ""

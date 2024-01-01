@@ -1,57 +1,57 @@
 [
   {
-    "before": "پہلا",
-    "word": "مُشیر",
-    "after": ":",
-    "line": 17,
+    "line": "پہلا مُشیر:",
+    "start": 5,
+    "end": 10,
+    "line_number": 17,
     "file": 598,
     "first": true
   },
   {
-    "before": "دُوسرا",
-    "word": "مُشیر",
-    "after": ":",
-    "line": 33,
+    "line": "دُوسرا مُشیر:",
+    "start": 7,
+    "end": 12,
+    "line_number": 33,
     "file": 598,
     "first": true
   },
   {
-    "before": "پہلا",
-    "word": "مُشیر",
-    "after": ":",
-    "line": 37,
+    "line": "پہلا مُشیر:",
+    "start": 5,
+    "end": 10,
+    "line_number": 37,
     "file": 598,
     "first": true
   },
   {
-    "before": "تیسرا",
-    "word": "مُشیر",
-    "after": ":",
-    "line": 49,
+    "line": "تیسرا مُشیر:",
+    "start": 6,
+    "end": 11,
+    "line_number": 49,
     "file": 598,
     "first": true
   },
   {
-    "before": "چوتھا",
-    "word": "مُشیر",
-    "after": ":",
-    "line": 59,
+    "line": "چوتھا مُشیر:",
+    "start": 6,
+    "end": 11,
+    "line_number": 59,
     "file": 598,
     "first": true
   },
   {
-    "before": "تیسرا",
-    "word": "مُشیر",
-    "after": ":",
-    "line": 65,
+    "line": "تیسرا مُشیر:",
+    "start": 6,
+    "end": 11,
+    "line_number": 65,
     "file": 598,
     "first": true
   },
   {
-    "before": "پانچواں",
-    "word": "مُشیر",
-    "after": ":",
-    "line": 69,
+    "line": "پانچواں مُشیر:",
+    "start": 8,
+    "end": 13,
+    "line_number": 69,
     "file": 598,
     "first": true
   }

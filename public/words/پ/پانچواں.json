@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "پانچواں",
-    "after": "مُشیر:",
-    "line": 69,
+    "line": "پانچواں مُشیر:",
+    "start": 0,
+    "end": 7,
+    "line_number": 69,
     "file": 598,
     "first": true
   }

@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "ظریفانہ",
-    "after": "",
-    "line": 1,
+    "line": "ظریفانہ",
+    "start": 0,
+    "end": 7,
+    "line_number": 1,
     "file": 172,
     "first": false
   }

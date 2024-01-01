@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "صِقلیہ",
-    "after": "",
-    "line": 1,
+    "line": "صِقلیہ",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 86,
     "first": false
   }

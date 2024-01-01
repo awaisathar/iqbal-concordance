@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "پنجابی",
-    "after": "مسلمان",
-    "line": 1,
+    "line": "پنجابی مسلمان",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 450,
     "first": false
   }

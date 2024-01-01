@@ -1,9 +1,9 @@
 [
   {
-    "before": "ایک حاجی مدینے کے",
-    "word": "راستے",
-    "after": "میں",
-    "line": 1,
+    "line": "ایک حاجی مدینے کے راستے میں",
+    "start": 18,
+    "end": 23,
+    "line_number": 1,
     "file": 104,
     "first": false
   }

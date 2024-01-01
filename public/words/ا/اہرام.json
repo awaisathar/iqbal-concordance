@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "اَہرامِ",
-    "after": "مصر",
-    "line": 1,
+    "line": "اَہرامِ مصر",
+    "start": 0,
+    "end": 7,
+    "line_number": 1,
     "file": 515,
     "first": false
   },
   {
-    "before": "",
-    "word": "اَہرام",
-    "after": "کی عظمت سے نگُوں سار ہیں افلاک",
-    "line": 5,
+    "line": "اَہرام کی عظمت سے نگُوں سار ہیں افلاک",
+    "start": 0,
+    "end": 6,
+    "line_number": 5,
     "file": 515,
     "first": true,
     "other": "کس ہاتھ نے کھینچی اَبدِیّت کی یہ تصویر!"

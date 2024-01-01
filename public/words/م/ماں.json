@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "ماں",
-    "after": "کا خواب",
-    "line": 1,
+    "line": "ماں کا خواب",
+    "start": 0,
+    "end": 3,
+    "line_number": 1,
     "file": 11,
     "first": false
   }

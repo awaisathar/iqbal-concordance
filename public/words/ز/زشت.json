@@ -1,27 +1,27 @@
 [
   {
-    "before": "",
-    "word": "زِشت",
-    "after": "رُوئی سے تری آئینہ ہے رُسوا ترا",
-    "line": 29,
+    "line": "زِشت رُوئی سے تری آئینہ ہے رُسوا ترا",
+    "start": 0,
+    "end": 4,
+    "line_number": 29,
     "file": 117,
     "first": false,
     "other": "اور ہے تیرا شعار، آئینِ ملّت اور ہے"
   },
   {
-    "before": "تُو ہے فاتحِ عالمِ خوب و",
-    "word": "زِشت",
-    "after": "",
-    "line": 199,
+    "line": "تُو ہے فاتحِ عالمِ خوب و زِشت",
+    "start": 25,
+    "end": 29,
+    "line_number": 199,
     "file": 340,
     "first": true,
     "other": "تجھے کیا بتاؤں تری سرنوشت"
   },
   {
-    "before": "خُوب و",
-    "word": "زِشت",
-    "after": "",
-    "line": 1,
+    "line": "خُوب و زِشت",
+    "start": 7,
+    "end": 11,
+    "line_number": 1,
     "file": 475,
     "first": false
   }

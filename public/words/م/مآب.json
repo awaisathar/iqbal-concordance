@@ -1,9 +1,9 @@
 [
   {
-    "before": "حضورِ رسالت",
-    "word": "مآبؐ",
-    "after": "میں",
-    "line": 1,
+    "line": "حضورِ رسالت مآبؐ میں",
+    "start": 12,
+    "end": 16,
+    "line_number": 1,
     "file": 119,
     "first": false
   }

@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "ماہرِ",
-    "after": "نفسیات سے",
-    "line": 1,
+    "line": "ماہرِ نفسیات سے",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 380,
     "first": false
   }

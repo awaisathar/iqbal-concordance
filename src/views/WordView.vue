@@ -22,18 +22,36 @@
           </thead>
           <tbody id="words" :class="{ single: showSingleLine }">
             <template v-for="(entry, index) in entries" :key="index">
-              <tr class="word other" v-if="!entry.first && entry.other"
-                @click.stop="showPoem(entry.file, entry.line, entry.before)">
-                <td class="other" colspan="3">{{ entry.other }}</td>
+              <tr class="word other" v-if="!entry.first && entry.other">
+                <td class="other" colspan="3">
+                  <RouterLink :to="getLink(entry)">
+                    {{ entry.other }}
+                  </RouterLink>
+                </td>
               </tr>
-              <tr class="word" @click.stop="showPoem(entry.file, entry.line, entry.before)">
-                <td>{{ entry.before || '&nbsp;' }}</td>
-                <td>{{ entry.word }}</td>
-                <td>{{ entry.after || '&nbsp;' }}</td>
+              <tr class="word">
+                <td>
+                  <RouterLink :to="getLink(entry)">
+                    {{ entry.line.substring(0, entry.start) || '&nbsp;' }}
+                  </RouterLink>
+                </td>
+                <td>
+                  <RouterLink :to="getLink(entry)">
+                    {{ entry.line.substring(entry.start, entry.end) }}
+                  </RouterLink>
+                </td>
+                <td>
+                  <RouterLink :to="getLink(entry)">
+                    {{ entry.line.substring(entry.end) || '&nbsp;' }}
+                  </RouterLink>
+                </td>
               </tr>
-              <tr class="word other" v-if="entry.first && entry.other"
-                @click.stop="showPoem(entry.file, entry.line, entry.before)">
-                <td class="other" colspan="3">{{ entry.other }}</td>
+              <tr class="word other" v-if="entry.first && entry.other">
+                <td class="other" colspan="3">
+                  <RouterLink :to="getLink(entry)">
+                    {{ entry.other }}
+                  </RouterLink>
+                </td>
               </tr>
               <tr class="spacer other">
                 <td colspan="3">&nbsp;</td>
@@ -49,31 +67,25 @@
 
 import axios from 'axios';
 import { defineProps, onMounted, ref } from 'vue';
-import { useRouter } from 'vue-router';
 
 const props = defineProps(['word']);
 const entries = ref([]);
 const showSingleLine = ref(true);
-const router = useRouter();
 
 onMounted(async () => {
   try {
-  const url = `/words/${props.word[0]}/${props.word}.json`;
-  const response = await axios.get(url);
-  entries.value = await response.data;
+    const url = `/words/${props.word[0]}/${props.word}.json`;
+    const response = await axios.get(url);
+    entries.value = await response.data;
 
-} catch (error) {
-  console.error('Error downloading JSON:', error);
-}
+  } catch (error) {
+    console.error('Error downloading JSON:', error);
+  }
 });
 
-
-const showPoem = (file, line, before) => {
-  router.push({
-    name: 'poem',
-    params: { id: file, l: line, w: before.split(' ').length + 1 },
-  });
-};
+const getLink = (entry) => {
+  return { "path": `/poem/${entry.file}/${entry.line_number}/${entry.start}/${entry.end}` }
+}
 
 </script>
 <style scoped> table {
@@ -98,7 +110,7 @@ const showPoem = (file, line, before) => {
    text-align: end;
  }
 
- #words tr td:nth-child(2) {
+ #words tr td:nth-child(2) a {
    color: var(--P2);
    text-align: center;
  }

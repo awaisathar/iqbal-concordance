@@ -1,9 +1,9 @@
 [
   {
-    "before": "دین",
-    "word": "وسیاست",
-    "after": "",
-    "line": 1,
+    "line": "دین وسیاست",
+    "start": 4,
+    "end": 10,
+    "line_number": 1,
     "file": 334,
     "first": false
   }

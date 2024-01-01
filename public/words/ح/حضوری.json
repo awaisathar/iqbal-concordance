@@ -1,18 +1,18 @@
 [
   {
-    "before": "نوری",
-    "word": "حضوری",
-    "after": "تیرے سپاہی",
-    "line": 7,
+    "line": "نوری حضوری تیرے سپاہی",
+    "start": 5,
+    "end": 10,
+    "line_number": 7,
     "file": 261,
     "first": false,
     "other": "تُو مردِ میداں، تُو میرِ لشکر"
   },
   {
-    "before": "ہر شے کو نصیب ہے",
-    "word": "حضوری",
-    "after": "",
-    "line": 6,
+    "line": "ہر شے کو نصیب ہے حضوری",
+    "start": 17,
+    "end": 22,
+    "line_number": 6,
     "file": 370,
     "first": false,
     "other": "عالم ہے خموش و مست گویا"

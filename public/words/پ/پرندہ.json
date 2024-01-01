@@ -1,9 +1,9 @@
 [
   {
-    "before": "ایک",
-    "word": "پرندہ",
-    "after": "اور جگنو",
-    "line": 1,
+    "line": "ایک پرندہ اور جگنو",
+    "start": 4,
+    "end": 9,
+    "line_number": 1,
     "file": 46,
     "first": false
   }

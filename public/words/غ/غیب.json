@@ -1,43 +1,43 @@
 [
   {
-    "before": "تڑپ رہا ہے فلاطوں میانِ",
-    "word": "غیب",
-    "after": "و حضور",
-    "line": 9,
+    "line": "تڑپ رہا ہے فلاطوں میانِ غیب و حضور",
+    "start": 24,
+    "end": 27,
+    "line_number": 9,
     "file": 291,
     "first": true,
     "other": "ازل سے اہلِ خرد کا مقام ہے اعراف"
   },
   {
-    "before": "لحد میں بھی یہی",
-    "word": "غیب",
-    "after": "و حضور رہتا ہے",
-    "line": 3,
+    "line": "لحد میں بھی یہی غیب و حضور رہتا ہے",
+    "start": 16,
+    "end": 19,
+    "line_number": 3,
     "file": 456,
     "first": true,
     "other": "اگر ہو زندہ تو دِل ناصُبور رہتا ہے"
   },
   {
-    "before": "صدائے",
-    "word": "غیب",
-    "after": ":",
-    "line": 19,
+    "line": "صدائے غیب:",
+    "start": 6,
+    "end": 9,
+    "line_number": 19,
     "file": 601,
     "first": true
   },
   {
-    "before": "صدائے",
-    "word": "غیب",
-    "after": ":",
-    "line": 36,
+    "line": "صدائے غیب:",
+    "start": 6,
+    "end": 9,
+    "line_number": 36,
     "file": 601,
     "first": true
   },
   {
-    "before": "آوازِ",
-    "word": "غیب",
-    "after": "",
-    "line": 1,
+    "line": "آوازِ غیب",
+    "start": 6,
+    "end": 9,
+    "line_number": 1,
     "file": 605,
     "first": false
   }

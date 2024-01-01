@@ -1,18 +1,18 @@
 [
   {
-    "before": "ہوئی ہے ترکِ کلیسا سے",
-    "word": "حاکمی",
-    "after": "آزاد",
-    "line": 7,
+    "line": "ہوئی ہے ترکِ کلیسا سے حاکمی آزاد",
+    "start": 22,
+    "end": 27,
+    "line_number": 7,
     "file": 565,
     "first": true,
     "other": "فرنگیوں کی سیاست ہے دیوِ بےزنجیر"
   },
   {
-    "before": "نفسیاتِ",
-    "word": "حاکمی",
-    "after": "",
-    "line": 1,
+    "line": "نفسیاتِ حاکمی",
+    "start": 8,
+    "end": 13,
+    "line_number": 1,
     "file": 576,
     "first": false
   }

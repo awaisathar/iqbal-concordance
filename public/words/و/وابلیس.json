@@ -1,9 +1,9 @@
 [
   {
-    "before": "جبریل",
-    "word": "واِبلیس",
-    "after": "",
-    "line": 1,
+    "line": "جبریل واِبلیس",
+    "start": 6,
+    "end": 13,
+    "line_number": 1,
     "file": 347,
     "first": false
   }

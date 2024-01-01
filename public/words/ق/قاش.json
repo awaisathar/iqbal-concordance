@@ -1,18 +1,18 @@
 [
   {
-    "before": "ہونے کو ہے یہ مُردۂ دیرینہ",
-    "word": "قاش",
-    "after": "قاش!",
-    "line": 6,
+    "line": "ہونے کو ہے یہ مُردۂ دیرینہ قاش قاش!",
+    "start": 27,
+    "end": 30,
+    "line_number": 6,
     "file": 556,
     "first": true,
     "other": ""
   },
   {
-    "before": "ہونے کو ہے یہ مُردۂ دیرینہ قاش",
-    "word": "قاش",
-    "after": "!",
-    "line": 6,
+    "line": "ہونے کو ہے یہ مُردۂ دیرینہ قاش قاش!",
+    "start": 31,
+    "end": 34,
+    "line_number": 6,
     "file": 556,
     "first": true,
     "other": ""

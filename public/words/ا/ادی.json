@@ -1,9 +1,9 @@
 [
   {
-    "before": "پھُولوں کی شہز",
-    "word": "ادی",
-    "after": "",
-    "line": 1,
+    "line": "پھُولوں کی شہز ادی",
+    "start": 15,
+    "end": 18,
+    "line_number": 1,
     "file": 148,
     "first": false
   }

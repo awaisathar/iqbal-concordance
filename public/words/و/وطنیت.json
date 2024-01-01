@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "وطنیّت",
-    "after": "",
-    "line": 1,
+    "line": "وطنیّت",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 103,
     "first": false
   }

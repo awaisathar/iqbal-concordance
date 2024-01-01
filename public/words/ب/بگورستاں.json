@@ -1,9 +1,9 @@
 [
   {
-    "before": "بال زاغاں را",
-    "word": "بگورستاں",
-    "after": "برد",
-    "line": 121,
+    "line": "بال زاغاں را بگورستاں برد",
+    "start": 13,
+    "end": 21,
+    "line_number": 121,
     "file": 345,
     "first": true,
     "other": ""

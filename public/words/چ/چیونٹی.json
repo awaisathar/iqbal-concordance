@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "چیونٹی",
-    "after": "اورعقاب",
-    "line": 1,
+    "line": "چیونٹی اورعقاب",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 384,
     "first": false
   },
   {
-    "before": "",
-    "word": "چیونٹی",
-    "after": ":",
-    "line": 3,
+    "line": "چیونٹی:",
+    "start": 0,
+    "end": 6,
+    "line_number": 3,
     "file": 384,
     "first": true
   }

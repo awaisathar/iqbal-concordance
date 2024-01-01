@@ -1,18 +1,18 @@
 [
   {
-    "before": "",
-    "word": "نانک",
-    "after": "نے جس چمن میں وحدت کا گیت گایا",
-    "line": 4,
+    "line": "نانک نے جس چمن میں وحدت کا گیت گایا",
+    "start": 0,
+    "end": 4,
+    "line_number": 4,
     "file": 42,
     "first": false,
     "other": "چشتیؒ نے جس زمیں میں پیغامِ حق سُنایا"
   },
   {
-    "before": "",
-    "word": "نانک",
-    "after": "",
-    "line": 1,
+    "line": "نانک",
+    "start": 0,
+    "end": 4,
+    "line_number": 1,
     "file": 144,
     "first": false
   }

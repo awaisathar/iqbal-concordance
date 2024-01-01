@@ -1,9 +1,9 @@
 [
   {
-    "before": "ہر",
-    "word": "گُرگ",
-    "after": "کو ہے برّۂ معصوم کی تلاش!",
-    "line": 11,
+    "line": "ہر گُرگ کو ہے برّۂ معصوم کی تلاش!",
+    "start": 3,
+    "end": 7,
+    "line_number": 11,
     "file": 556,
     "first": false,
     "other": ""

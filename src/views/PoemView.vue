@@ -3,7 +3,7 @@
     <div id="container">
       <table id="lines">
         <tr v-for="(line, index) in lines" :key="index" class="verse">
-          <td :id="`line-${index + 1}`" :class="{ highlight: index + 1 === parseInt(props.l) }">{{ line || '&nbsp;' }}
+          <td :id="`line-${index + 1}`" :class="{ highlight: index + 1 === parseInt(props.line) }">{{ line || '&nbsp;' }}
           </td>
         </tr>
       </table>
@@ -18,9 +18,11 @@ const highlight = (elementId) => {
     if (element) {
       clearInterval(intervalId);
       element.scrollIntoView({ behavior: 'smooth' });
-      element.innerHTML = element.innerHTML.split(' ').map((word, i) => {
-        return i + 1 === parseInt(props.w) ? `<span style="color:var(--P2)">${word}</span>` : word;
-      }).join(' ');
+      element.innerHTML = `
+        ${element.innerText.substring(0, props.start)}
+        <span style="color:var(--P2)">${element.innerText.substring(props.start,props.end)}</span>
+        ${element.innerText.substring(props.end)}
+      `
     }
   }, 300);
 };
@@ -28,13 +30,13 @@ const highlight = (elementId) => {
 import axios from 'axios';
 import { defineProps, onMounted, ref } from 'vue';
 
-const props = defineProps(['id', 'w', 'l']);
+const props = defineProps(['id', 'line', 'start', 'end']);
 const lines = ref([]);
 onMounted(async () => {
   const url = `/text/${props.id}.txt`;
   const response = await axios.get(url);
   lines.value = await response.data.split('\n');
-  highlight(`line-${props.l}`, props.w);
+  highlight(`line-${props.line}`);
 });
 
 </script>

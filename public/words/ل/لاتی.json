@@ -1,9 +1,9 @@
 [
   {
-    "before": "آبا مرے",
-    "word": "لاتی",
-    "after": "و مناتی",
-    "line": 14,
+    "line": "آبا مرے لاتی و مناتی",
+    "start": 8,
+    "end": 12,
+    "line_number": 14,
     "file": 395,
     "first": false,
     "other": "مَیں اصل کا خاص سومناتی"

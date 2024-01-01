@@ -1,17 +1,17 @@
 [
   {
-    "before": "شیر اور",
-    "word": "خچّر",
-    "after": "",
-    "line": 1,
+    "line": "شیر اور خچّر",
+    "start": 8,
+    "end": 12,
+    "line_number": 1,
     "file": 383,
     "first": false
   },
   {
-    "before": "",
-    "word": "خچّر",
-    "after": ":",
-    "line": 7,
+    "line": "خچّر:",
+    "start": 0,
+    "end": 4,
+    "line_number": 7,
     "file": 383,
     "first": true
   }

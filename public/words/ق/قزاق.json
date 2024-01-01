@@ -1,25 +1,25 @@
 [
   {
-    "before": "ایک بحری",
-    "word": "قزاّق",
-    "after": "اور سکندر",
-    "line": 1,
+    "line": "ایک بحری قزاّق اور سکندر",
+    "start": 9,
+    "end": 14,
+    "line_number": 1,
     "file": 568,
     "first": false
   },
   {
-    "before": "",
-    "word": "قزّاق",
-    "after": ":",
-    "line": 7,
+    "line": "قزّاق:",
+    "start": 0,
+    "end": 5,
+    "line_number": 7,
     "file": 568,
     "first": true
   },
   {
-    "before": "کہ ہم",
-    "word": "قزاّق",
-    "after": "ہیں دونوں، تو مَیدانی، میں دریائی!",
-    "line": 11,
+    "line": "کہ ہم قزاّق ہیں دونوں، تو مَیدانی، میں دریائی!",
+    "start": 6,
+    "end": 11,
+    "line_number": 11,
     "file": 568,
     "first": false,
     "other": "ترا پیشہ ہے سفّاکی، مرا پیشہ ہے سفّاکی"

@@ -1,9 +1,9 @@
 [
   {
-    "before": "مُحاصرۂ",
-    "word": "ادَرنہ",
-    "after": "",
-    "line": 1,
+    "line": "مُحاصرۂ ادَرنہ",
+    "start": 8,
+    "end": 14,
+    "line_number": 1,
     "file": 131,
     "first": false
   }

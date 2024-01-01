@@ -6,11 +6,9 @@
       <li>کسی لفظ پر کلک کر کے اس پر مشتمل شعر/مصرعے دیکھیں۔</li>
       <li>کسی شعر یا مصرع پر کلک کر کے پوری نظم/غزل/قطعہ دیکھیں۔</li>
       <li>فہرست دیکھنے کے لیے <a href="/"><img width="16" src="@/assets/home.svg" /></a> پر کلک کریں۔ </li>
-      <li>تبصروں اور فرمائشوں کے لیے فی‌الحال
-        <span lang="en" dir="ltr" style="font-family: Arial, Helvetica, sans-serif;">
-          <a href="https://twitter.com/intent/tweet?screen_name=awaisathar&ref_src=twsrc%5Etfw">@awaisathar</a>
-        </span>
-        استعمال کریں۔
+      <li>اس سائٹ پر کام جاری ہے اور تمام ٹیکسٹ اوپن سورس ہے۔ فرمائشوں کے لیے
+        <a href="https://github.com/awaisathar/iqbal-concordance">گِٹ ہَب</a>
+        پر نیا ایشو بنائیں۔اور اگر متن درست کر کے پُل ریکویسٹ ڈال دیں تو کیا ہی بات ہو!
       </li>
     </ul>
   </div>
@@ -18,12 +16,16 @@
 
 <script setup>
 </script>
-<style>
+<style scoped>
 @media (min-width: 1024px) {
   .about {
     min-height: 100vh;
     display: flex;
     align-items: center;
   }
+}
+
+a {
+  color: var(--P2);
 }
 </style>

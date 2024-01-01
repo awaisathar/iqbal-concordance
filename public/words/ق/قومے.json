@@ -1,9 +1,9 @@
 [
   {
-    "before": "ہیچ",
-    "word": "قومے",
-    "after": "را خدا رُسوا نہ کرد",
-    "line": 97,
+    "line": "ہیچ قومے را خدا رُسوا نہ کرد",
+    "start": 4,
+    "end": 8,
+    "line_number": 97,
     "file": 345,
     "first": true,
     "other": ""

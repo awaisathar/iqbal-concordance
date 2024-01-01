@@ -1,18 +1,18 @@
 [
   {
-    "before": "",
-    "word": "چَرتے",
-    "after": "چَرتے کہیں سے آ نکلی",
-    "line": 16,
+    "line": "چَرتے چَرتے کہیں سے آ نکلی",
+    "start": 0,
+    "end": 5,
+    "line_number": 16,
     "file": 8,
     "first": false,
     "other": "کسی ندّی کے پاس اک بکری"
   },
   {
-    "before": "چَرتے",
-    "word": "چَرتے",
-    "after": "کہیں سے آ نکلی",
-    "line": 16,
+    "line": "چَرتے چَرتے کہیں سے آ نکلی",
+    "start": 6,
+    "end": 11,
+    "line_number": 16,
     "file": 8,
     "first": false,
     "other": "کسی ندّی کے پاس اک بکری"

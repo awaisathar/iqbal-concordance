@@ -1,35 +1,35 @@
 [
   {
-    "before": "",
-    "word": "شُعاعِ",
-    "after": "آفتاب",
-    "line": 1,
+    "line": "شُعاعِ آفتاب",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 141,
     "first": false
   },
   {
-    "before": "آسماں پر اک",
-    "word": "شُعاعِ",
-    "after": "آفتاب آوارہ تھی",
-    "line": 4,
+    "line": "آسماں پر اک شُعاعِ آفتاب آوارہ تھی",
+    "start": 12,
+    "end": 18,
+    "line_number": 4,
     "file": 141,
     "first": false,
     "other": "صبح جب میری نگہ سودائیِ نظّارہ تھی"
   },
   {
-    "before": "وہ کہ ہے جس کی نِگہ مثلِ",
-    "word": "شُعاعِ",
-    "after": "آفتاب!",
-    "line": 16,
+    "line": "وہ کہ ہے جس کی نِگہ مثلِ شُعاعِ آفتاب!",
+    "start": 25,
+    "end": 31,
+    "line_number": 16,
     "file": 357,
     "first": false,
     "other": "فیض یہ کس کی نظر کا ہے، کرامت کس کی ہے؟"
   },
   {
-    "before": "",
-    "word": "شُعاعِ",
-    "after": "اُمِّید",
-    "line": 1,
+    "line": "شُعاعِ اُمِّید",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 507,
     "first": false
   }

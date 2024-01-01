@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "اساتِذہ",
-    "after": "",
-    "line": 1,
+    "line": "اساتِذہ",
+    "start": 0,
+    "end": 7,
+    "line_number": 1,
     "file": 483,
     "first": false
   }

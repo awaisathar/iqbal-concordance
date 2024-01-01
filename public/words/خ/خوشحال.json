@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "خوشحال",
-    "after": "خاںکی وصیّت*",
-    "line": 1,
+    "line": "خوشحال خاںکی وصیّت*",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 361,
     "first": false
   },
   {
-    "before": "وہ مدفن ہے",
-    "word": "خوشحال",
-    "after": "خاں کو پسند",
-    "line": 10,
+    "line": "وہ مدفن ہے خوشحال خاں کو پسند",
+    "start": 11,
+    "end": 17,
+    "line_number": 10,
     "file": 361,
     "first": false,
     "other": "کہوں تجھ سے اے ہم نشیں دل کی بات"

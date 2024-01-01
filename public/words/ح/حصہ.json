@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "حصہ",
-    "after": "سوم",
-    "line": 1,
+    "line": "حصہ سوم",
+    "start": 0,
+    "end": 3,
+    "line_number": 1,
     "file": 94,
     "first": false
   }

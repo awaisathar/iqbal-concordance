@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "سنیما",
-    "after": "",
-    "line": 1,
+    "line": "سنیما",
+    "start": 0,
+    "end": 5,
+    "line_number": 1,
     "file": 365,
     "first": false
   },
   {
-    "before": "",
-    "word": "سنیما",
-    "after": "ہے یا صنعتِ آزری ہے",
-    "line": 4,
+    "line": "سنیما ہے یا صنعتِ آزری ہے",
+    "start": 0,
+    "end": 5,
+    "line_number": 4,
     "file": 365,
     "first": false,
     "other": "وہی بُت فروشی، وہی بُت گری ہے"

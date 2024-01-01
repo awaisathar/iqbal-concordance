@@ -1,9 +1,9 @@
 [
   {
-    "before": "تعلیم اور اس کے",
-    "word": "نتائج",
-    "after": "",
-    "line": 1,
+    "line": "تعلیم اور اس کے نتائج",
+    "start": 16,
+    "end": 21,
+    "line_number": 1,
     "file": 123,
     "first": false
   }

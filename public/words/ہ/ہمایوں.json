@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "ہمایوں",
-    "after": "",
-    "line": 1,
+    "line": "ہمایوں",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 161,
     "first": false
   },
   {
-    "before": "اے",
-    "word": "ہمایوں",
-    "after": "! زندگی تیری سراپا سوز تھی",
-    "line": 3,
+    "line": "اے ہمایوں! زندگی تیری سراپا سوز تھی",
+    "start": 3,
+    "end": 9,
+    "line_number": 3,
     "file": 161,
     "first": true,
     "other": "تیری چنگاری چراغِ انجمن افروز تھی"

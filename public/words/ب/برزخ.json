@@ -1,9 +1,9 @@
 [
   {
-    "before": "عالمِ",
-    "word": "بَرزخ",
-    "after": "",
-    "line": 1,
+    "line": "عالمِ بَرزخ",
+    "start": 6,
+    "end": 11,
+    "line_number": 1,
     "file": 601,
     "first": false
   }

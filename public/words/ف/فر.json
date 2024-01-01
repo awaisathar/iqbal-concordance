@@ -1,17 +1,17 @@
 [
   {
-    "before": "پرندے کی",
-    "word": "فر",
-    "after": "یاد",
-    "line": 1,
+    "line": "پرندے کی فر یاد",
+    "start": 9,
+    "end": 11,
+    "line_number": 1,
     "file": 12,
     "first": false
   },
   {
-    "before": "باطل کے فال و",
-    "word": "فر",
-    "after": "کی حفاظت کے واسطے",
-    "line": 13,
+    "line": "باطل کے فال و فر کی حفاظت کے واسطے",
+    "start": 14,
+    "end": 16,
+    "line_number": 13,
     "file": 408,
     "first": true,
     "other": "یورپ زِرہ میں ڈوب گیا دوش تا کمر"

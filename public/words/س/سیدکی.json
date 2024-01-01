@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "سیّدکی",
-    "after": "لوحِ تُربت",
-    "line": 1,
+    "line": "سیّدکی لوحِ تُربت",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 23,
     "first": false
   }

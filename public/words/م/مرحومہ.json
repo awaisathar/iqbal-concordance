@@ -1,9 +1,9 @@
 [
   {
-    "before": "والدہ",
-    "word": "مرحومہ",
-    "after": "کی یاد میں",
-    "line": 1,
+    "line": "والدہ مرحومہ کی یاد میں",
+    "start": 6,
+    "end": 12,
+    "line_number": 1,
     "file": 140,
     "first": false
   }

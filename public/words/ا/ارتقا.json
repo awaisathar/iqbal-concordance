@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "اِرتقا",
-    "after": "",
-    "line": 1,
+    "line": "اِرتقا",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 137,
     "first": false
   }

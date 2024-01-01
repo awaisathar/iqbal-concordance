@@ -1,9 +1,9 @@
 [
   {
-    "before": "اِبلیس کی مجلسِ",
-    "word": "شُوریٰ",
-    "after": "",
-    "line": 1,
+    "line": "اِبلیس کی مجلسِ شُوریٰ",
+    "start": 16,
+    "end": 22,
+    "line_number": 1,
     "file": 598,
     "first": false
   }

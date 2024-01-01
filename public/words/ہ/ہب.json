@@ -1,9 +1,9 @@
 [
   {
-    "before": "مذ",
-    "word": "ہب",
-    "after": "",
-    "line": 1,
+    "line": "مذ ہب",
+    "start": 3,
+    "end": 5,
+    "line_number": 1,
     "file": 151,
     "first": false
   }

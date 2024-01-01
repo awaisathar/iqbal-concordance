@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "دوستارے",
-    "after": "",
-    "line": 1,
+    "line": "دوستارے",
+    "start": 0,
+    "end": 7,
+    "line_number": 1,
     "file": 96,
     "first": false
   }

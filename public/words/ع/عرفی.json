@@ -1,17 +1,17 @@
 [
   {
-    "before": "",
-    "word": "عُرفیؔ",
-    "after": "",
-    "line": 1,
+    "line": "عُرفیؔ",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 142,
     "first": false
   },
   {
-    "before": "محل ایسا کِیا تعمیر",
-    "word": "عُرفیؔ",
-    "after": "کے تخیّل نے",
-    "line": 3,
+    "line": "محل ایسا کِیا تعمیر عُرفیؔ کے تخیّل نے",
+    "start": 20,
+    "end": 26,
+    "line_number": 3,
     "file": 142,
     "first": true,
     "other": "تَصدّق جس پہ حیرت خانۂ سیناؔ و فارابیؔ"

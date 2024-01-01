@@ -1,9 +1,9 @@
 [
   {
-    "before": "",
-    "word": "بلشویک",
-    "after": "رُوس",
-    "line": 1,
+    "line": "بلشویک رُوس",
+    "start": 0,
+    "end": 6,
+    "line_number": 1,
     "file": 549,
     "first": false
   }
