@@ -171,8 +171,8 @@
   },
   {
     "line": "(جنّت میں)",
-    "start": 1,
-    "end": 5,
+    "start": 0,
+    "end": 4,
     "line_number": 10,
     "file": 431,
     "first": true

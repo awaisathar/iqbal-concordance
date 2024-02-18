@@ -496,8 +496,8 @@
   },
   {
     "line": "“اِنَّ وعْد اللہِ حقٌ یاد رکھ”",
-    "start": 1,
-    "end": 6,
+    "start": 0,
+    "end": 5,
     "line_number": 13,
     "file": 171,
     "first": false,
@@ -712,8 +712,8 @@
   },
   {
     "line": "’تن بہ تقدیر‘ ہے آج اُن کے عمل کا انداز",
-    "start": 20,
-    "end": 23,
+    "start": 19,
+    "end": 22,
     "line_number": 5,
     "file": 393,
     "first": true,

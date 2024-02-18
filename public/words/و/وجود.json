@@ -271,8 +271,8 @@
   },
   {
     "line": "’وجُودِ حضرتِ انساں نہ رُوح ہے نہ بدن،!",
-    "start": 1,
-    "end": 7,
+    "start": 0,
+    "end": 6,
     "line_number": 8,
     "file": 445,
     "first": false,

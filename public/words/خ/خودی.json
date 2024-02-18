@@ -478,8 +478,8 @@
   },
   {
     "line": "’خودی را سوز و تابے دیگرے دہ",
-    "start": 1,
-    "end": 5,
+    "start": 0,
+    "end": 4,
     "line_number": 22,
     "file": 362,
     "first": true,

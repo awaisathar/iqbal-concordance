@@ -937,8 +937,8 @@
   },
   {
     "line": "’اگر یک سرِ مُوے برتر پَرم",
-    "start": 1,
-    "end": 4,
+    "start": 0,
+    "end": 3,
     "line_number": 205,
     "file": 340,
     "first": true,
@@ -1369,8 +1369,8 @@
   },
   {
     "line": "“دل اگر میداشت وسعت بےنشاں بود ایں چمن",
-    "start": 4,
-    "end": 7,
+    "start": 3,
+    "end": 6,
     "line_number": 9,
     "file": 523,
     "first": true,

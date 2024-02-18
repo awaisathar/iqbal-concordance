@@ -809,8 +809,8 @@
   },
   {
     "line": "( اپنے مُشیروں سے)",
-    "start": 2,
-    "end": 6,
+    "start": 0,
+    "end": 4,
     "line_number": 93,
     "file": 598,
     "first": true
@@ -835,8 +835,8 @@
   },
   {
     "line": "( اپنے مُردے سے)",
-    "start": 2,
-    "end": 6,
+    "start": 0,
+    "end": 4,
     "line_number": 28,
     "file": 601,
     "first": true

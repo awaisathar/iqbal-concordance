@@ -2987,8 +2987,8 @@
   },
   {
     "line": "۔۔۔۔ کی گود میں بِلّی دیکھ کر",
-    "start": 5,
-    "end": 7,
+    "start": 0,
+    "end": 2,
     "line_number": 1,
     "file": 70,
     "first": false
@@ -4840,8 +4840,8 @@
   },
   {
     "line": "“حُسنِ ازل ہے پیدا تاروں کی دلبری میں",
-    "start": 25,
-    "end": 27,
+    "start": 24,
+    "end": 26,
     "line_number": 23,
     "file": 109,
     "first": true,
@@ -7006,8 +7006,8 @@
   },
   {
     "line": "“مُلک ہاتھوں سے گیا مِلّت کی آنکھیں کھُل گئیں”",
-    "start": 26,
-    "end": 28,
+    "start": 25,
+    "end": 27,
     "line_number": 157,
     "file": 162,
     "first": true,
@@ -11088,8 +11088,8 @@
   },
   {
     "line": "’ہر لحظہ ہے قوموں کے عمل پر نظر اس کی",
-    "start": 35,
-    "end": 37,
+    "start": 34,
+    "end": 36,
     "line_number": 9,
     "file": 403,
     "first": true,
@@ -11106,8 +11106,8 @@
   },
   {
     "line": "’قُلْ ھُوَ اللہ، کی شمشیر سے خالی ہیں نیام",
-    "start": 17,
-    "end": 19,
+    "start": 15,
+    "end": 17,
     "line_number": 8,
     "file": 404,
     "first": false,
@@ -11600,8 +11600,8 @@
   },
   {
     "line": "(فرشتوں کی طرف دیکھ کر)",
-    "start": 8,
-    "end": 10,
+    "start": 7,
+    "end": 9,
     "line_number": 16,
     "file": 433,
     "first": true
