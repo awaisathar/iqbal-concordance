@@ -88,18 +88,30 @@ else:
 # end files in folder
 
     print(f"Finished processing all files. Total unique tokens: {len(all_tokens)}")
-
 try:
     collator = Collator.createInstance(Locale("ur_PK"))
     all_tokens_sorted = dict(sorted(all_tokens.items(), key=lambda item: collator.getSortKey(item[0])))
+
+    # Calculate word frequencies
+    word_frequencies = {word: len(details) for word, details in all_tokens_sorted.items()}
+
+    # Write concordance.json with detailed occurrences
     with open('concordance.json', 'w', encoding='utf-8') as out:
         json.dump(all_tokens_sorted, out, indent=2, ensure_ascii=False)
     print("Successfully wrote concordance.json")
+
+    # Prepare words with frequencies for words.json
+    words_with_frequencies = {word: {'frequency': freq} for word, freq in word_frequencies.items()}
+
+    # Write enhanced words data (including frequencies) to words.json
+    with open('src/assets/words.json', 'w', encoding='utf-8') as out:
+        json.dump(words_with_frequencies, out, indent=2, ensure_ascii=False)
+    print("Successfully integrated frequencies into src/assets/words.json.")
+
 except Exception as e:
-    print(f"Error during sorting or writing concordance: {e}")
+    print(f"Error during processing: {e}")
 
-# Directory creation and individual word files writing logic remains unchanged
-
+# Directory and individual word files creation logic
 try:
     shutil.rmtree('public/words')
 except FileNotFoundError:
@@ -110,17 +122,10 @@ except Exception as e:
 for word in set(w[0] for w in all_tokens):
     os.makedirs(os.path.join('public', 'words', word), exist_ok=True)
 
-for word, entries in all_tokens.items():
+for word, entries in all_tokens_sorted.items():
     try:
         with open(os.path.join('public', 'words', word[0], f"{word}.json"), 'w', encoding='utf-8') as out:
             json.dump(entries, out, indent=2, ensure_ascii=False)
     except Exception as e:
         print(f"Error writing file for word '{word}': {e}")
-
-try:
-    with open('src/assets/words.json', 'w', encoding='utf-8') as out:
-                json.dump(sorted(list(all_tokens.keys()), key=collator.getSortKey), out, indent=2, ensure_ascii=False)
-    print("Successfully wrote src/assets/words.json.")
-except Exception as e:
-    print(f"Error writing to src/assets/words.json: {e}")
 
