@@ -2,14 +2,14 @@
   <div>
     <!-- Sorting Toggle -->
     <div style="text-align: end; font-size: 12pt; margin-top: 2em; margin-left: 2em;">
-      <label for="sortToggle">تعدد</label>
+      <label for="sortToggle">تعددی </label>
       <label class="checkbox-slider">
         <input type="checkbox" id="sortToggle" v-model="sortByFrequency">
         <div class="slider-track">
           <div class="slider-thumb"></div>
         </div>
       </label>
-      <label for="sortToggle">گروہ</label>
+      <label for="sortToggle">لفظی</label>
     </div>
 
     <!-- Letter Navigation -->
