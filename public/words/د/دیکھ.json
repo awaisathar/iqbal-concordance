@@ -262,11 +262,12 @@
   },
   {
     "line": "۔۔۔۔ کی گود میں بِلّی دیکھ کر",
-    "start": 22,
-    "end": 26,
+    "start": 21,
+    "end": 25,
     "line_number": 1,
     "file": 70,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "دیکھ! یثرِب میں ہُوا ناقۂ لیلیٰ بیکار",
@@ -873,8 +874,8 @@
   },
   {
     "line": "(فرشتوں کی طرف دیکھ کر)",
-    "start": 15,
-    "end": 19,
+    "start": 14,
+    "end": 18,
     "line_number": 16,
     "file": 433,
     "first": true

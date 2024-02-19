@@ -10,8 +10,8 @@
   },
   {
     "line": "’ذِمّی کا مال لشکرِ مسلم پہ ہے حرام‘",
-    "start": 31,
-    "end": 35,
+    "start": 30,
+    "end": 34,
     "line_number": 21,
     "file": 131,
     "first": true,
@@ -131,7 +131,8 @@
     "end": 10,
     "line_number": 1,
     "file": 527,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "حرام میری نگاہوں میں ناے و چنگ و رباب!",
@@ -162,8 +163,8 @@
   },
   {
     "line": "’ہے جہاد اس دَور میں مردِ مسلماںپر حرام!",
-    "start": 35,
-    "end": 39,
+    "start": 34,
+    "end": 38,
     "line_number": 31,
     "file": 598,
     "first": false,

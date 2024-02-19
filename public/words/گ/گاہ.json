@@ -226,8 +226,8 @@
   },
   {
     "line": "’گاہ بالد چوں صنوبر، گاہ نالد چوں رباب‘",
-    "start": 1,
-    "end": 4,
+    "start": 0,
+    "end": 3,
     "line_number": 63,
     "file": 598,
     "first": false,
@@ -235,8 +235,8 @@
   },
   {
     "line": "’گاہ بالد چوں صنوبر، گاہ نالد چوں رباب‘",
-    "start": 21,
-    "end": 24,
+    "start": 19,
+    "end": 22,
     "line_number": 63,
     "file": 598,
     "first": false,

@@ -19,8 +19,8 @@
   },
   {
     "line": "“محلِّ نورِ تجلّی ست راے انور شاہ",
-    "start": 30,
-    "end": 33,
+    "start": 29,
+    "end": 32,
     "line_number": 30,
     "file": 124,
     "first": true,
@@ -59,7 +59,8 @@
     "end": 9,
     "line_number": 1,
     "file": 360,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "نہ مصطفیٰ نہ رضا شاہ میں نُمود اس کی",
@@ -81,8 +82,8 @@
   },
   {
     "line": "’شاہ‘ ہے برطانوی مندر میں اک مٹّی کا بُت",
-    "start": 1,
-    "end": 4,
+    "start": 0,
+    "end": 3,
     "line_number": 5,
     "file": 602,
     "first": true,

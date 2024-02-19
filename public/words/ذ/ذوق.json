@@ -253,8 +253,8 @@
   },
   {
     "line": "“نوا را تلخ تر می زن چو ذوقِ نغمہ کم یابی”",
-    "start": 24,
-    "end": 28,
+    "start": 23,
+    "end": 27,
     "line_number": 12,
     "file": 163,
     "first": false,
@@ -374,7 +374,8 @@
     "end": 3,
     "line_number": 1,
     "file": 329,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "جلوَتیانِ مدرسہ کور نگاہ و مُردہ ذوق",
@@ -535,7 +536,8 @@
     "end": 4,
     "line_number": 1,
     "file": 536,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "انھی کے ذوقِ عمل سے ہیں اُمتّوں کے نظام",

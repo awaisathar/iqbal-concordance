@@ -406,8 +406,8 @@
   },
   {
     "line": "“رفتم کہ خار از پا کشم، محمل نہاں شد از نظر",
-    "start": 40,
-    "end": 43,
+    "start": 39,
+    "end": 42,
     "line_number": 25,
     "file": 147,
     "first": false,
@@ -937,8 +937,8 @@
   },
   {
     "line": "’ہر لحظہ ہے قوموں کے عمل پر نظر اس کی",
-    "start": 28,
-    "end": 31,
+    "start": 27,
+    "end": 30,
     "line_number": 9,
     "file": 403,
     "first": true,
@@ -1328,7 +1328,8 @@
     "end": 8,
     "line_number": 1,
     "file": 536,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "کھُلتے نظر آتے ہیں بتدریج وہ اَسرار",

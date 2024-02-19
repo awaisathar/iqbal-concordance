@@ -221,7 +221,8 @@
     "end": 5,
     "line_number": 1,
     "file": 343,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "رُوح میں باقی ہے اب تک درد و کرب",
@@ -310,7 +311,8 @@
     "end": 8,
     "line_number": 1,
     "file": 434,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اس راز کو اب فاش کر اے رُوحِ محمدؐ",
@@ -350,8 +352,8 @@
   },
   {
     "line": "’وجُودِ حضرتِ انساں نہ رُوح ہے نہ بدن،!",
-    "start": 23,
-    "end": 27,
+    "start": 22,
+    "end": 26,
     "line_number": 8,
     "file": 445,
     "first": false,

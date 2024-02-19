@@ -14,7 +14,8 @@
     "end": 11,
     "line_number": 1,
     "file": 78,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "عقیدہ ’عشرتِ امروز‘ ہے جوانی کا",
@@ -112,8 +113,7 @@
     "end": 37,
     "line_number": 2,
     "file": 391,
-    "first": true,
-    "other": "نہیں معلوم کہ ہوتی ہے کہاں سے پیدا"
+    "first": true
   },
   {
     "line": "جس قوم کی تقدیر میں امروز نہیں ہے!",

@@ -32,7 +32,8 @@
     "end": 4,
     "line_number": 1,
     "file": 5,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ابرِ کُہسار ہوں گُل پاش ہے دامن میرا",
@@ -67,7 +68,8 @@
     "end": 3,
     "line_number": 1,
     "file": 45,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "نہاں ہُوا جو رخِ مہر زیرِ دامنِ ابر",

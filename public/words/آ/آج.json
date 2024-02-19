@@ -271,8 +271,8 @@
   },
   {
     "line": "’تن بہ تقدیر‘ ہے آج اُن کے عمل کا انداز",
-    "start": 17,
-    "end": 19,
+    "start": 16,
+    "end": 18,
     "line_number": 5,
     "file": 393,
     "first": true,
@@ -302,7 +302,8 @@
     "end": 2,
     "line_number": 1,
     "file": 550,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "جو آج خود افروز و جگر سوز نہیں ہے",

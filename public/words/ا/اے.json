@@ -293,7 +293,8 @@
     "end": 8,
     "line_number": 1,
     "file": 32,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "رُخصت اے بزمِ جہاں! سُوئے وطن جاتا ہوں مَیں",
@@ -1242,8 +1243,8 @@
   },
   {
     "line": "“تو اے پروانہ! ایں گرمی ز شمع محفلے داری",
-    "start": 4,
-    "end": 6,
+    "start": 3,
+    "end": 5,
     "line_number": 24,
     "file": 139,
     "first": true,
@@ -2092,7 +2093,8 @@
     "end": 2,
     "line_number": 1,
     "file": 434,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اس راز کو اب فاش کر اے رُوحِ محمدؐ",
@@ -2127,7 +2129,8 @@
     "end": 2,
     "line_number": 1,
     "file": 447,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اے پِیرِ حرم! رسم و رہِ خانقہی چھوڑ",

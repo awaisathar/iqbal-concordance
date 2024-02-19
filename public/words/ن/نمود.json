@@ -158,7 +158,8 @@
     "end": 5,
     "line_number": 1,
     "file": 98,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "وہ نمودِ اخترِ سیماب پا ہنگامِ صُبح",
@@ -333,8 +334,8 @@
   },
   {
     "line": "’لااِلہ‘ مُردہ و افسُردہ و بےذوقِ نمود",
-    "start": 34,
-    "end": 38,
+    "start": 33,
+    "end": 37,
     "line_number": 4,
     "file": 505,
     "first": false,

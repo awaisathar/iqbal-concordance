@@ -59,7 +59,8 @@
     "end": 7,
     "line_number": 1,
     "file": 115,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "دوش می گُفتم بہ شمعِ منزلِ ویرانِ خویش",
@@ -180,8 +181,8 @@
   },
   {
     "line": "“دلقِ حافظؔ بچہ ارزد بہ میَش رنگیں کُن",
-    "start": 21,
-    "end": 23,
+    "start": 20,
+    "end": 22,
     "line_number": 39,
     "file": 190,
     "first": true,
@@ -328,12 +329,13 @@
     "end": 5,
     "line_number": 1,
     "file": 393,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "’تن بہ تقدیر‘ ہے آج اُن کے عمل کا انداز",
-    "start": 4,
-    "end": 6,
+    "start": 3,
+    "end": 5,
     "line_number": 5,
     "file": 393,
     "first": true,
@@ -368,8 +370,8 @@
   },
   {
     "line": "’از ہر چہ بآئینہ نمایند بہ پرہیز‘",
-    "start": 24,
-    "end": 26,
+    "start": 23,
+    "end": 25,
     "line_number": 10,
     "file": 530,
     "first": false,

@@ -203,7 +203,8 @@
     "end": 5,
     "line_number": 1,
     "file": 63,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مرکّب نے محبّت نام پایا عرشِ اعظم سے",
@@ -751,7 +752,8 @@
     "end": 4,
     "line_number": 1,
     "file": 351,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "شہیدِ محبّت نہ کافر نہ غازی",

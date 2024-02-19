@@ -118,8 +118,8 @@
   },
   {
     "line": "’قُلْ ھُوَ اللہ، کی شمشیر سے خالی ہیں نیام",
-    "start": 20,
-    "end": 25,
+    "start": 19,
+    "end": 24,
     "line_number": 8,
     "file": 404,
     "first": false,
@@ -131,7 +131,8 @@
     "end": 12,
     "line_number": 1,
     "file": 407,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "کیا چیز ہے فولاد کی شمشیرِ جگردار",

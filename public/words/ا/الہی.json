@@ -73,8 +73,8 @@
   },
   {
     "line": "“الٰہی! پھُولوں میں وہ انتخاب مجھ کو کرے",
-    "start": 1,
-    "end": 6,
+    "start": 0,
+    "end": 5,
     "line_number": 5,
     "file": 101,
     "first": true,
@@ -122,7 +122,8 @@
     "end": 12,
     "line_number": 1,
     "file": 455,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مومن فقط احکامِ الٰہی کا ہے پابند",

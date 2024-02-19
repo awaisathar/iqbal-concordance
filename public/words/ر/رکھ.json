@@ -50,7 +50,8 @@
     "end": 32,
     "line_number": 1,
     "file": 154,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مِلّت کے ساتھ رابطۂ اُستوار رکھ",
@@ -117,8 +118,8 @@
   },
   {
     "line": "“اِنَّ وعْد اللہِ حقٌ یاد رکھ”",
-    "start": 26,
-    "end": 29,
+    "start": 25,
+    "end": 28,
     "line_number": 13,
     "file": 171,
     "first": false,

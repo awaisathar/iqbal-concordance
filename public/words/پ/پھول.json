@@ -104,7 +104,8 @@
     "end": 5,
     "line_number": 1,
     "file": 101,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "کبھی یہ پھُول ہم آغوشِ مدّعا نہ ہوا",
@@ -229,7 +230,8 @@
     "end": 5,
     "line_number": 1,
     "file": 156,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "پھُول کی پتّی سے کٹ سکتا ہے ہیرے کا جگر",

@@ -64,8 +64,8 @@
   },
   {
     "line": "’لا‘ کے دریا میں نہاں موتی ہے ’الاّ اللہ‘ کا",
-    "start": 36,
-    "end": 40,
+    "start": 35,
+    "end": 39,
     "line_number": 13,
     "file": 66,
     "first": false,
@@ -199,8 +199,8 @@
   },
   {
     "line": "“اِنَّ وعْد اللہِ حقٌ یاد رکھ”",
-    "start": 12,
-    "end": 17,
+    "start": 11,
+    "end": 16,
     "line_number": 13,
     "file": 171,
     "first": false,
@@ -212,7 +212,8 @@
     "end": 8,
     "line_number": 1,
     "file": 203,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "متاعِ دین و دانش لُٹ گئی اللہ والوں کی",
@@ -292,7 +293,8 @@
     "end": 8,
     "line_number": 1,
     "file": 315,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "تجھ سے مرے سینے میں آتشِ ’اللہ ھو‘",
@@ -404,8 +406,8 @@
   },
   {
     "line": "’قُم بِاذنِ اللہ‘ کہہ سکتے تھے جو، رُخصت ہوئے",
-    "start": 12,
-    "end": 16,
+    "start": 11,
+    "end": 15,
     "line_number": 5,
     "file": 371,
     "first": true,
@@ -417,7 +419,8 @@
     "end": 27,
     "line_number": 1,
     "file": 387,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "لا الٰہ الاّ اللہ",
@@ -425,7 +428,8 @@
     "end": 17,
     "line_number": 1,
     "file": 392,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "خودی کا سِرِّ نہاں لَا اِلٰہَ اِلّاَ اللہ",
@@ -501,8 +505,8 @@
   },
   {
     "line": "’قُلْ ھُوَ اللہ، کی شمشیر سے خالی ہیں نیام",
-    "start": 11,
-    "end": 15,
+    "start": 10,
+    "end": 14,
     "line_number": 8,
     "file": 404,
     "first": false,
@@ -577,7 +581,8 @@
     "end": 15,
     "line_number": 1,
     "file": 457,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "جہاں اگرچہ دِگر گُوں ہے، قُم بِاذنِ اللہ",

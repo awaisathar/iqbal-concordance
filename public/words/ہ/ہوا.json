@@ -1045,8 +1045,8 @@
   },
   {
     "line": "“گرت ہوا ست کہ با خِضر ہم نشیں باشی",
-    "start": 5,
-    "end": 8,
+    "start": 4,
+    "end": 7,
     "line_number": 18,
     "file": 143,
     "first": true,
@@ -1337,7 +1337,8 @@
     "end": 30,
     "line_number": 1,
     "file": 319,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مغرب کی ہوا نے تجھ کو پالا",

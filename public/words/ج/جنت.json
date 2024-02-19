@@ -140,7 +140,8 @@
     "end": 17,
     "line_number": 1,
     "file": 342,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "جنّت تری پنہاں ہے ترے خُونِ جگر میں",
@@ -171,8 +172,8 @@
   },
   {
     "line": "(جنّت میں)",
-    "start": 1,
-    "end": 5,
+    "start": 0,
+    "end": 4,
     "line_number": 10,
     "file": 431,
     "first": true

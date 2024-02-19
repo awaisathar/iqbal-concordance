@@ -100,8 +100,8 @@
   },
   {
     "line": "( بھر تری ہری)",
-    "start": 2,
-    "end": 5,
+    "start": 0,
+    "end": 3,
     "line_number": 6,
     "file": 202,
     "first": true

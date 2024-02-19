@@ -5419,8 +5419,8 @@
   },
   {
     "line": "’لا‘ کے دریا میں نہاں موتی ہے ’الاّ اللہ‘ کا",
-    "start": 13,
-    "end": 16,
+    "start": 12,
+    "end": 15,
     "line_number": 13,
     "file": 66,
     "first": false,
@@ -5554,11 +5554,12 @@
   },
   {
     "line": "۔۔۔۔ کی گود میں بِلّی دیکھ کر",
-    "start": 12,
-    "end": 15,
+    "start": 11,
+    "end": 14,
     "line_number": 1,
     "file": 70,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "صُورتِ دل ہے یہ ہر چیز کے باطن میں مکیں",
@@ -7416,8 +7417,8 @@
   },
   {
     "line": "“الٰہی! پھُولوں میں وہ انتخاب مجھ کو کرے",
-    "start": 16,
-    "end": 19,
+    "start": 15,
+    "end": 18,
     "line_number": 5,
     "file": 101,
     "first": true,
@@ -7555,7 +7556,8 @@
     "end": 27,
     "line_number": 1,
     "file": 104,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "قافلہ لُوٹا گیا صحرا میں اور منزل ہے دُور",
@@ -7577,8 +7579,8 @@
   },
   {
     "line": "’ہائے یثرِب‘ دل میں، لب پر نعرۂ توحید تھا",
-    "start": 16,
-    "end": 19,
+    "start": 15,
+    "end": 18,
     "line_number": 13,
     "file": 104,
     "first": false,
@@ -8270,8 +8272,8 @@
   },
   {
     "line": "“حُسنِ ازل ہے پیدا تاروں کی دلبری میں",
-    "start": 34,
-    "end": 37,
+    "start": 33,
+    "end": 36,
     "line_number": 23,
     "file": 109,
     "first": true,
@@ -9147,7 +9149,8 @@
     "end": 20,
     "line_number": 1,
     "file": 119,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "قیودِ شام و سحَر میں بسر تو کی لیکن",
@@ -9178,8 +9181,8 @@
   },
   {
     "line": "“حضورؐ! دہر میں آسُودگی نہیں مِلتی",
-    "start": 12,
-    "end": 15,
+    "start": 11,
+    "end": 14,
     "line_number": 19,
     "file": 119,
     "first": true,
@@ -9821,7 +9824,8 @@
     "end": 39,
     "line_number": 1,
     "file": 128,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "یہ شالامار میں اک برگِ زرد کہتا تھا",
@@ -10135,7 +10139,8 @@
     "end": 4,
     "line_number": 1,
     "file": 134,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مرے نصیب میں ہے کاوشِ زیاں، پھر کیا",
@@ -10269,7 +10274,8 @@
     "end": 23,
     "line_number": 1,
     "file": 140,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ہے شکست انجام غنچے کا سبُو گلزار میں",
@@ -10759,8 +10765,8 @@
   },
   {
     "line": "“خُفتہ ہنگامے ہیں میری ہستیِ خاموش میں",
-    "start": 35,
-    "end": 38,
+    "start": 34,
+    "end": 37,
     "line_number": 12,
     "file": 141,
     "first": true,
@@ -10889,7 +10895,8 @@
     "end": 18,
     "line_number": 1,
     "file": 143,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ہوَس بھی ہو تو نہیں مجھ میں ہمّتِ تگ و تاز",
@@ -11095,7 +11102,8 @@
     "end": 9,
     "line_number": 1,
     "file": 150,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ہاتِف نے کہا مجھ سے کہ فردوس میں اک روز",
@@ -11319,7 +11327,8 @@
     "end": 3,
     "line_number": 1,
     "file": 158,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "نہ سلیقہ مجھ میں کلیِم کا نہ قرینہ تجھ میں خلیل کا",
@@ -12484,8 +12493,8 @@
   },
   {
     "line": "“ہم نے یہ ماناکہ دِلّی میں رہیں، کھائیں گے کیا؟”",
-    "start": 23,
-    "end": 26,
+    "start": 22,
+    "end": 25,
     "line_number": 7,
     "file": 186,
     "first": false,
@@ -14248,8 +14257,8 @@
   },
   {
     "line": "’اَرِنی‘ میں بھی کہہ رہا ہوں، مگر",
-    "start": 9,
-    "end": 12,
+    "start": 7,
+    "end": 10,
     "line_number": 27,
     "file": 251,
     "first": true,
@@ -15944,7 +15953,8 @@
     "end": 12,
     "line_number": 1,
     "file": 318,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اک فغانِ بےشرر سینے میں باقی رہ گئی",
@@ -18220,7 +18230,8 @@
     "end": 61,
     "line_number": 1,
     "file": 387,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "میدانِ جنگ میں نہ طلب کر نوائے چنگ",
@@ -18935,8 +18946,8 @@
   },
   {
     "line": "(دُنیا میں)",
-    "start": 7,
-    "end": 10,
+    "start": 6,
+    "end": 9,
     "line_number": 3,
     "file": 431,
     "first": true
@@ -18952,8 +18963,8 @@
   },
   {
     "line": "(جنّت میں)",
-    "start": 6,
-    "end": 9,
+    "start": 5,
+    "end": 8,
     "line_number": 10,
     "file": 431,
     "first": true
@@ -19324,7 +19335,8 @@
     "end": 26,
     "line_number": 1,
     "file": 452,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "فرنگیوں میں اخوّت کا ہے نسَب پہ قیام",
@@ -21524,8 +21536,8 @@
   },
   {
     "line": "’ہے جہاد اس دَور میں مردِ مسلماںپر حرام!",
-    "start": 17,
-    "end": 20,
+    "start": 16,
+    "end": 19,
     "line_number": 31,
     "file": 598,
     "first": false,
@@ -21839,8 +21851,8 @@
   },
   {
     "line": "’شاہ‘ ہے برطانوی مندر میں اک مٹّی کا بُت",
-    "start": 22,
-    "end": 25,
+    "start": 21,
+    "end": 24,
     "line_number": 5,
     "file": 602,
     "first": true,

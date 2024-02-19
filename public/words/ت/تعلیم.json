@@ -50,7 +50,8 @@
     "end": 5,
     "line_number": 1,
     "file": 123,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ہم سمجھتے تھے کہ لائے گی فراغت تعلیم",
@@ -67,7 +68,8 @@
     "end": 17,
     "line_number": 1,
     "file": 147,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مُرشد کی یہ تعلیم تھی اے مسلمِ شوریدہ سر",
@@ -174,7 +176,8 @@
     "end": 5,
     "line_number": 1,
     "file": 458,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اُس جُنوں سے تجھے تعلیم نے بیگانہ کِیا",
@@ -191,7 +194,8 @@
     "end": 12,
     "line_number": 1,
     "file": 485,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اور یہ اہلِ کلیسا کا نظامِ تعلیم",
@@ -226,7 +230,8 @@
     "end": 14,
     "line_number": 1,
     "file": 495,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "تعلیم کے تیزاب میں ڈال اس کی خودی کو",

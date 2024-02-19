@@ -5,7 +5,8 @@
     "end": 11,
     "line_number": 1,
     "file": 11,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "میں سوئی جو اک شب تو دیکھا یہ خواب",
@@ -283,7 +284,8 @@
     "end": 14,
     "line_number": 1,
     "file": 362,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "جب تک نہ اُٹھیں خواب سے مردانِ گراں خواب",

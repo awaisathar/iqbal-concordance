@@ -347,7 +347,8 @@
     "end": 6,
     "line_number": 1,
     "file": 9,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "زندگی شمع کی صورت ہو خدایا میری",
@@ -454,7 +455,8 @@
     "end": 8,
     "line_number": 1,
     "file": 12,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "وہ باغ کی بہاریں، وہ سب کا چہچہانا",
@@ -2987,11 +2989,12 @@
   },
   {
     "line": "۔۔۔۔ کی گود میں بِلّی دیکھ کر",
-    "start": 5,
-    "end": 7,
+    "start": 0,
+    "end": 2,
     "line_number": 1,
     "file": 70,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "رمز آغازِ محبّت کی بتا دی کس نے",
@@ -4840,8 +4843,8 @@
   },
   {
     "line": "“حُسنِ ازل ہے پیدا تاروں کی دلبری میں",
-    "start": 25,
-    "end": 27,
+    "start": 24,
+    "end": 26,
     "line_number": 23,
     "file": 109,
     "first": true,
@@ -5690,7 +5693,8 @@
     "end": 20,
     "line_number": 1,
     "file": 128,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "انھی کی شاخِ نشیمن کی یادگار ہوں میں",
@@ -6130,7 +6134,8 @@
     "end": 15,
     "line_number": 1,
     "file": 140,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "گرچہ میرے باغ میں شبنم کی شادابی نہیں",
@@ -6579,7 +6584,8 @@
     "end": 10,
     "line_number": 1,
     "file": 148,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "تمھارے گُلستاں کی کیفیت سرشار ہے ایسی",
@@ -7006,8 +7012,8 @@
   },
   {
     "line": "“مُلک ہاتھوں سے گیا مِلّت کی آنکھیں کھُل گئیں”",
-    "start": 26,
-    "end": 28,
+    "start": 25,
+    "end": 27,
     "line_number": 157,
     "file": 162,
     "first": true,
@@ -9467,7 +9473,8 @@
     "end": 7,
     "line_number": 1,
     "file": 323,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "دونیم ان کی ٹھوکر سے صحرا و دریا",
@@ -10681,7 +10688,8 @@
     "end": 9,
     "line_number": 1,
     "file": 372,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "پرکالۂ آتش ہُوئی آدم کی کفِ خاک!",
@@ -10797,7 +10805,8 @@
     "end": 8,
     "line_number": 1,
     "file": 379,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "پوشیدہ ہے کافر کی نظر سے ملَکُ الموْت",
@@ -10886,7 +10895,8 @@
     "end": 52,
     "line_number": 1,
     "file": 387,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "نہ دیر میں نہ حرم میں خودی کی بیداری",
@@ -10921,8 +10931,8 @@
     "end": 20,
     "line_number": 5,
     "file": 391,
-    "first": false,
-    "other": "وہ سحَر جس سے لَرزتا ہے شبستانِ وجود"
+    "first": true,
+    "other": ""
   },
   {
     "line": "یہ دَور اپنے براہیم کی تلاش میں ہے",
@@ -11088,8 +11098,8 @@
   },
   {
     "line": "’ہر لحظہ ہے قوموں کے عمل پر نظر اس کی",
-    "start": 35,
-    "end": 37,
+    "start": 34,
+    "end": 36,
     "line_number": 9,
     "file": 403,
     "first": true,
@@ -11106,8 +11116,8 @@
   },
   {
     "line": "’قُلْ ھُوَ اللہ، کی شمشیر سے خالی ہیں نیام",
-    "start": 17,
-    "end": 19,
+    "start": 15,
+    "end": 17,
     "line_number": 8,
     "file": 404,
     "first": false,
@@ -11443,7 +11453,8 @@
     "end": 8,
     "line_number": 1,
     "file": 426,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ہے تجھ میں مُکر جانے کی جُرأت تو مُکر جا!",
@@ -11600,8 +11611,8 @@
   },
   {
     "line": "(فرشتوں کی طرف دیکھ کر)",
-    "start": 8,
-    "end": 10,
+    "start": 7,
+    "end": 9,
     "line_number": 16,
     "file": 433,
     "first": true
@@ -12017,7 +12028,8 @@
     "end": 16,
     "line_number": 1,
     "file": 466,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "جس بندۂ حق بیں کی خودی ہو گئی بیدار",
@@ -12061,7 +12073,8 @@
     "end": 7,
     "line_number": 1,
     "file": 469,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "خودی کی پرورش و تربیَت پہ ہے موقوف",
@@ -12087,7 +12100,8 @@
     "end": 7,
     "line_number": 1,
     "file": 471,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "شیخ و مُلّا کو بُری لگتی ہے درویش کی بات",
@@ -12428,7 +12442,8 @@
     "end": 7,
     "line_number": 1,
     "file": 494,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "کیا سمجھے گا وہ جس کی رگوں میں ہے لہُو سرد",
@@ -12562,7 +12577,8 @@
     "end": 7,
     "line_number": 1,
     "file": 502,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "یہ بُت کدہ اُنھی غارت گروں کی ہے تعمیر",
@@ -13092,7 +13108,8 @@
     "end": 13,
     "line_number": 1,
     "file": 543,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "یہ علم و حکمت کی مُہرہ بازی، یہ بحث و تکرار کی نمائش",
@@ -13577,7 +13594,8 @@
     "end": 9,
     "line_number": 1,
     "file": 573,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "وہ سجدہ جس میں ہے مِلّت کی زندگی کا پیام!",
@@ -13891,7 +13909,8 @@
     "end": 9,
     "line_number": 1,
     "file": 598,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ساکنانِ عرشِ اعظم کی تمنّاؤں کا خوں!",
@@ -14196,7 +14215,8 @@
     "end": 14,
     "line_number": 1,
     "file": 599,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ہو تیرے بیاباں کی ہوا تجھ کو گوارا",
@@ -14330,7 +14350,8 @@
     "end": 8,
     "line_number": 1,
     "file": 603,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "قسمت ہے غریبوں کی وہی نالہ و فریاد",

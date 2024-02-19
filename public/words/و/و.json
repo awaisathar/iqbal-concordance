@@ -176,7 +176,8 @@
     "end": 5,
     "line_number": 1,
     "file": 14,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ننھّے سے دل میں لذّتِ سوز و گداز ہے",
@@ -193,7 +194,8 @@
     "end": 5,
     "line_number": 1,
     "file": 15,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "تُو زمان و مکاں سے رشتہ بپا",
@@ -795,7 +797,8 @@
     "end": 6,
     "line_number": 1,
     "file": 69,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "کام اپنا ہے صبح و شام چلنا",
@@ -1285,8 +1288,8 @@
   },
   {
     "line": "“بآب و رنگ و خال و خط چہ حاجت رُوے زیبا را”",
-    "start": 5,
-    "end": 6,
+    "start": 4,
+    "end": 5,
     "line_number": 13,
     "file": 115,
     "first": false,
@@ -1294,8 +1297,8 @@
   },
   {
     "line": "“بآب و رنگ و خال و خط چہ حاجت رُوے زیبا را”",
-    "start": 11,
-    "end": 12,
+    "start": 10,
+    "end": 11,
     "line_number": 13,
     "file": 115,
     "first": false,
@@ -1303,8 +1306,8 @@
   },
   {
     "line": "“بآب و رنگ و خال و خط چہ حاجت رُوے زیبا را”",
-    "start": 17,
-    "end": 18,
+    "start": 16,
+    "end": 17,
     "line_number": 13,
     "file": 115,
     "first": false,
@@ -1492,8 +1495,8 @@
   },
   {
     "line": "“تخمِ دیگر بکف آریم و بکاریم ز نو",
-    "start": 20,
-    "end": 21,
+    "start": 19,
+    "end": 20,
     "line_number": 12,
     "file": 123,
     "first": true,
@@ -1519,8 +1522,8 @@
   },
   {
     "line": "“ہزار گُونہ سخن در دہان و لب خاموش”",
-    "start": 24,
-    "end": 25,
+    "start": 23,
+    "end": 24,
     "line_number": 16,
     "file": 124,
     "first": false,
@@ -2230,8 +2233,8 @@
   },
   {
     "line": "“شہپر زاغ و زغن در بندِ قید و صید نیست",
-    "start": 10,
-    "end": 11,
+    "start": 9,
+    "end": 10,
     "line_number": 12,
     "file": 159,
     "first": true,
@@ -2239,8 +2242,8 @@
   },
   {
     "line": "“شہپر زاغ و زغن در بندِ قید و صید نیست",
-    "start": 28,
-    "end": 29,
+    "start": 27,
+    "end": 28,
     "line_number": 12,
     "file": 159,
     "first": true,
@@ -2266,8 +2269,8 @@
   },
   {
     "line": "’کشتیِ مسکین‘ و ’جانِ پاک‘ و ’دیوارِ یتیم‘",
-    "start": 14,
-    "end": 15,
+    "start": 12,
+    "end": 13,
     "line_number": 21,
     "file": 162,
     "first": true,
@@ -2275,8 +2278,8 @@
   },
   {
     "line": "’کشتیِ مسکین‘ و ’جانِ پاک‘ و ’دیوارِ یتیم‘",
-    "start": 27,
-    "end": 28,
+    "start": 25,
+    "end": 26,
     "line_number": 21,
     "file": 162,
     "first": true,
@@ -2697,8 +2700,8 @@
   },
   {
     "line": "“بیا تا گُل بیفشانیم و مے در ساغر اندازیم",
-    "start": 21,
-    "end": 22,
+    "start": 20,
+    "end": 21,
     "line_number": 153,
     "file": 163,
     "first": true,
@@ -2796,8 +2799,8 @@
   },
   {
     "line": "“اصلِ شہود و شاہد و مشہود ایک ہے”",
-    "start": 11,
-    "end": 12,
+    "start": 10,
+    "end": 11,
     "line_number": 3,
     "file": 181,
     "first": true,
@@ -2805,8 +2808,8 @@
   },
   {
     "line": "“اصلِ شہود و شاہد و مشہود ایک ہے”",
-    "start": 18,
-    "end": 19,
+    "start": 17,
+    "end": 18,
     "line_number": 3,
     "file": 181,
     "first": true,
@@ -3579,8 +3582,8 @@
   },
   {
     "line": "’گرفتہ چینیاں احرام و مکّی خفتہ در بطحا*‘!",
-    "start": 20,
-    "end": 21,
+    "start": 19,
+    "end": 20,
     "line_number": 25,
     "file": 232,
     "first": false,
@@ -5959,7 +5962,8 @@
     "end": 5,
     "line_number": 1,
     "file": 329,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "قلب و نظر کی زندگی دشت میں صُبح کا سماں",
@@ -6908,8 +6912,8 @@
   },
   {
     "line": "’طالبِ دل باش و در پیکار باش‘",
-    "start": 14,
-    "end": 15,
+    "start": 13,
+    "end": 14,
     "line_number": 169,
     "file": 345,
     "first": false,
@@ -7367,8 +7371,8 @@
   },
   {
     "line": "’خودی را سوز و تابے دیگرے دہ",
-    "start": 13,
-    "end": 14,
+    "start": 12,
+    "end": 13,
     "line_number": 22,
     "file": 362,
     "first": true,
@@ -7448,8 +7452,8 @@
   },
   {
     "line": "“ز بہرِ درم تُند و بدخو مباش",
-    "start": 17,
-    "end": 18,
+    "start": 16,
+    "end": 17,
     "line_number": 7,
     "file": 369,
     "first": true,
@@ -7803,7 +7807,8 @@
     "end": 6,
     "line_number": 1,
     "file": 396,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اے سالکِ رہ! فکر نہ کر سُود و زیاں کا",
@@ -7829,7 +7834,8 @@
     "end": 6,
     "line_number": 1,
     "file": 398,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "عشق نے مجھ سے کہا علم ہے تخمین و ظن",
@@ -7936,7 +7942,8 @@
     "end": 6,
     "line_number": 1,
     "file": 400,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "لاہور سے تا خاکِ بخارا و سمرقند",
@@ -8088,7 +8095,8 @@
     "end": 6,
     "line_number": 1,
     "file": 410,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "فقر جنگاہ میں بےساز و یراق آتا ہے",
@@ -8285,7 +8293,8 @@
     "end": 5,
     "line_number": 1,
     "file": 423,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ہر خاکی و نُوری پہ حکومت ہے خرد کی",
@@ -8392,7 +8401,8 @@
     "end": 6,
     "line_number": 1,
     "file": 429,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "بُرّندہ و صَیقل زدہ و روشن و بَرّاق",
@@ -8544,7 +8554,8 @@
     "end": 6,
     "line_number": 1,
     "file": 437,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "تری نگاہ میں ہے ایک، فقر و رُہبانی",
@@ -8615,7 +8626,8 @@
     "end": 7,
     "line_number": 1,
     "file": 439,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مقصود ہے کچھ اور ہی تسلیم و رِضا کا",
@@ -8677,7 +8689,8 @@
     "end": 5,
     "line_number": 1,
     "file": 442,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "میری مشکل، مستی و شور و سُرور و درد و داغ",
@@ -8739,7 +8752,8 @@
     "end": 7,
     "line_number": 1,
     "file": 443,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "قدر و قیمت میں ہے خُوں جن کا حرم سے بڑھ کر",
@@ -8828,7 +8842,8 @@
     "end": 4,
     "line_number": 1,
     "file": 453,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "فضائے نُور میں کرتا نہ شاخ و برگ و بر پیدا",
@@ -8890,7 +8905,8 @@
     "end": 7,
     "line_number": 1,
     "file": 458,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "حیات کیا ہے، حضور و سُرور و نُور و وجود",
@@ -8930,8 +8946,8 @@
   },
   {
     "line": "’عشق ناپید و خرد میگزدش صُورتِ مار‘",
-    "start": 11,
-    "end": 12,
+    "start": 10,
+    "end": 11,
     "line_number": 3,
     "file": 460,
     "first": true,
@@ -9240,7 +9256,8 @@
     "end": 6,
     "line_number": 1,
     "file": 475,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "تخیّلات بھی ہیں تابعِ طلوع و غروب",
@@ -9356,7 +9373,8 @@
     "end": 6,
     "line_number": 1,
     "file": 485,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ہو نہ اخلاص تو دعوٰئے نظر لاف و گزاف",
@@ -9720,8 +9738,8 @@
   },
   {
     "line": "’لااِلہ‘ مُردہ و افسُردہ و بےذوقِ نمود",
-    "start": 15,
-    "end": 16,
+    "start": 14,
+    "end": 15,
     "line_number": 4,
     "file": 505,
     "first": false,
@@ -9729,8 +9747,8 @@
   },
   {
     "line": "’لااِلہ‘ مُردہ و افسُردہ و بےذوقِ نمود",
-    "start": 25,
-    "end": 26,
+    "start": 24,
+    "end": 25,
     "line_number": 4,
     "file": 505,
     "first": false,
@@ -10093,7 +10111,8 @@
     "end": 6,
     "line_number": 1,
     "file": 514,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "کرتی رہی مَیں پیرہنِ لالہ و گُل چاک",
@@ -10182,7 +10201,8 @@
     "end": 6,
     "line_number": 1,
     "file": 524,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مری نظر میں یہی ہے جمال و زیبائی",
@@ -10370,7 +10390,8 @@
     "end": 5,
     "line_number": 1,
     "file": 538,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "شعر سے روشن ہے جانِ جبرئیل و اہرمن",
@@ -10441,7 +10462,8 @@
     "end": 15,
     "line_number": 1,
     "file": 541,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "یہ علم و حکمت کی مُہرہ بازی، یہ بحث و تکرار کی نمائش",
@@ -10683,7 +10705,8 @@
     "end": 5,
     "line_number": 1,
     "file": 570,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "قصّہ نہیں نارنج کا یا شہد و رُطَب کا",
@@ -10736,7 +10759,8 @@
     "end": 6,
     "line_number": 1,
     "file": 575,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "یہاں مَرض کا سبب ہے غلامی و تقلید",
@@ -11266,7 +11290,8 @@
     "end": 7,
     "line_number": 1,
     "file": 600,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "نظر، درد و غم و سوز و تب و تاب",
@@ -11441,8 +11466,8 @@
   },
   {
     "line": "“دلے کہ عاشق و صابر بود مگر سنگ است",
-    "start": 13,
-    "end": 14,
+    "start": 12,
+    "end": 13,
     "line_number": 15,
     "file": 604,
     "first": true,

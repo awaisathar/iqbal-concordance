@@ -32,7 +32,8 @@
     "end": 11,
     "line_number": 1,
     "file": 27,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ساقیِ موت کے ہاتھوں سے صبُوحی پینا",
@@ -508,7 +509,8 @@
     "end": 3,
     "line_number": 1,
     "file": 456,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "فرشتہ موت کا چھُوتا ہے گو بدن تیرا",

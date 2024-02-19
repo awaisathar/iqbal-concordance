@@ -55,8 +55,8 @@
   },
   {
     "line": "“گرت ہوا ست کہ با خِضر ہم نشیں باشی",
-    "start": 18,
-    "end": 22,
+    "start": 17,
+    "end": 21,
     "line_number": 18,
     "file": 143,
     "first": true,
@@ -77,7 +77,8 @@
     "end": 5,
     "line_number": 1,
     "file": 162,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "دیکھتا کیا ہوں کہ وہ پیکِ جہاں‌پیما خضَر",

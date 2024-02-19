@@ -248,7 +248,8 @@
     "end": 9,
     "line_number": 1,
     "file": 15,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "عقل نے ایک دن یہ دل سے کہا",
@@ -499,7 +500,8 @@
     "end": 2,
     "line_number": 1,
     "file": 30,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "قصّۂ دار و رسَن بازیِ طفلانۂ دل",
@@ -1322,8 +1324,8 @@
   },
   {
     "line": "“ہر چہ در دل گُذرد وقفِ زباں دارد شمع",
-    "start": 10,
-    "end": 12,
+    "start": 9,
+    "end": 11,
     "line_number": 33,
     "file": 85,
     "first": true,
@@ -1556,8 +1558,8 @@
   },
   {
     "line": "’ہائے یثرِب‘ دل میں، لب پر نعرۂ توحید تھا",
-    "start": 13,
-    "end": 15,
+    "start": 11,
+    "end": 13,
     "line_number": 13,
     "file": 104,
     "first": false,
@@ -3149,8 +3151,8 @@
   },
   {
     "line": "’فُرصتِ کشمکش مدہ ایں دلِ بےقرار را",
-    "start": 22,
-    "end": 25,
+    "start": 21,
+    "end": 24,
     "line_number": 42,
     "file": 329,
     "first": true,
@@ -3284,8 +3286,8 @@
   },
   {
     "line": "’طالبِ دل باش و در پیکار باش‘",
-    "start": 7,
-    "end": 9,
+    "start": 6,
+    "end": 8,
     "line_number": 169,
     "file": 345,
     "first": false,
@@ -3464,8 +3466,8 @@
   },
   {
     "line": "“دل در سخنِ محمدیؐ بند",
-    "start": 1,
-    "end": 3,
+    "start": 0,
+    "end": 2,
     "line_number": 29,
     "file": 395,
     "first": true,
@@ -3531,7 +3533,8 @@
     "end": 9,
     "line_number": 1,
     "file": 423,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اک دل ہے کہ ہر لحظہ اُلجھتا ہے خرد سے",
@@ -3715,8 +3718,8 @@
   },
   {
     "line": "“دل اگر میداشت وسعت بےنشاں بود ایں چمن",
-    "start": 1,
-    "end": 3,
+    "start": 0,
+    "end": 2,
     "line_number": 9,
     "file": 523,
     "first": true,

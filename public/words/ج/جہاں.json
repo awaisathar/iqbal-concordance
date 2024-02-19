@@ -131,7 +131,8 @@
     "end": 18,
     "line_number": 1,
     "file": 32,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "رُخصت اے بزمِ جہاں! سُوئے وطن جاتا ہوں مَیں",
@@ -1584,8 +1585,8 @@
   },
   {
     "line": "“خود بوے چنیں جہاں تواں برُد",
-    "start": 14,
-    "end": 18,
+    "start": 13,
+    "end": 17,
     "line_number": 13,
     "file": 520,
     "first": true,

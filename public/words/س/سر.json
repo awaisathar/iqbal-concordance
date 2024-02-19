@@ -460,8 +460,8 @@
   },
   {
     "line": "’کہ برفتراکِ صاحب دولتے بستم سرِ خُود را‘*",
-    "start": 29,
-    "end": 32,
+    "start": 28,
+    "end": 31,
     "line_number": 48,
     "file": 232,
     "first": false,
@@ -550,8 +550,8 @@
   },
   {
     "line": "’اگر یک سرِ مُوے برتر پَرم",
-    "start": 8,
-    "end": 11,
+    "start": 7,
+    "end": 10,
     "line_number": 205,
     "file": 340,
     "first": true,
@@ -725,7 +725,8 @@
     "end": 2,
     "line_number": 1,
     "file": 640,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مَیں تو اس بارِ امانت کو اُٹھاتا سرِ دوش",

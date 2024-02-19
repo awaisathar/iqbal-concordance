@@ -41,7 +41,8 @@
     "end": 12,
     "line_number": 1,
     "file": 6,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "یہ بات کہی اور اُڑی اپنی جگہ سے",
@@ -58,7 +59,8 @@
     "end": 12,
     "line_number": 1,
     "file": 7,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "یہ عقل اور یہ سمجھ، یہ شعور، کیا کہنا!",
@@ -84,7 +86,8 @@
     "end": 12,
     "line_number": 1,
     "file": 8,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اور پیپل کے سایہ دار درخت",
@@ -272,7 +275,8 @@
     "end": 10,
     "line_number": 1,
     "file": 25,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اور بےمنّتِ خورشید چمک ہے تری",
@@ -289,7 +293,8 @@
     "end": 7,
     "line_number": 1,
     "file": 27,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مَلک کا مَلک اور پارے کا پارا",
@@ -306,7 +311,8 @@
     "end": 8,
     "line_number": 1,
     "file": 28,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ہو گا یہ کسی اور ہی اسلام کا بانی",
@@ -449,7 +455,8 @@
     "end": 13,
     "line_number": 1,
     "file": 46,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "بچّہ اور شمع",
@@ -457,7 +464,8 @@
     "end": 8,
     "line_number": 1,
     "file": 47,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ورنہ مَیں، اور اُڑ کے آتا ایک دانے کے لیے!",
@@ -609,7 +617,8 @@
     "end": 8,
     "line_number": 1,
     "file": 72,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اور آئینے میں عکسِ ہمدمِ دیرینہ ہے",
@@ -896,7 +905,8 @@
     "end": 7,
     "line_number": 1,
     "file": 108,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اُڑتا جاتا تھا اور نہ تھا کوئی",
@@ -985,7 +995,8 @@
     "end": 7,
     "line_number": 1,
     "file": 117,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "انجمن پیاسی ہے اور پیمانہ بےصہبا ترا!",
@@ -1128,7 +1139,8 @@
     "end": 9,
     "line_number": 1,
     "file": 123,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اور عُریاں ہو کے لازم ہے خود افشانی تجھے",
@@ -1154,7 +1166,8 @@
     "end": 8,
     "line_number": 1,
     "file": 130,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "زندانی ہے اور نام کو آزاد ہے شمشاد",
@@ -1189,7 +1202,8 @@
     "end": 8,
     "line_number": 1,
     "file": 134,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اور اب چرچے ہیں جس کی شوخیِ گُفتار کے",
@@ -1242,7 +1256,8 @@
     "end": 10,
     "line_number": 1,
     "file": 147,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مگر فطرت تری اُفتندہ اور بیگم کی شان اونچی",
@@ -1295,7 +1310,8 @@
     "end": 7,
     "line_number": 1,
     "file": 158,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اور یہ سرمایہ و محنت میں ہے کیسا خروش",
@@ -1425,8 +1441,8 @@
   },
   {
     "line": "’کھُل گئے، یاجوج اور ماجوج کے لشکر تمام",
-    "start": 17,
-    "end": 20,
+    "start": 16,
+    "end": 19,
     "line_number": 9,
     "file": 194,
     "first": true,
@@ -1843,7 +1859,8 @@
     "end": 11,
     "line_number": 1,
     "file": 330,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مُلّا اور بہشت",
@@ -1851,7 +1868,8 @@
     "end": 9,
     "line_number": 1,
     "file": 333,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اور جنّت میں نہ مسجد، نہ کلیسا، نہ کُنِشت!",
@@ -2012,7 +2030,8 @@
     "end": 7,
     "line_number": 1,
     "file": 383,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اِسلام اور مسلمان",
@@ -2020,7 +2039,8 @@
     "end": 10,
     "line_number": 1,
     "file": 390,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "شاید کہ زمیں ہے یہ کسی اور جہاں کی",
@@ -2055,7 +2075,8 @@
     "end": 7,
     "line_number": 1,
     "file": 405,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "آوازۂ حق اُٹھتا ہے کب اور کِدھر سے",
@@ -2072,7 +2093,8 @@
     "end": 9,
     "line_number": 1,
     "file": 409,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اگر شکست نہیں ہے تو اور کیا ہے شکست!",
@@ -2134,7 +2156,8 @@
     "end": 10,
     "line_number": 1,
     "file": 441,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مکّہ اور جنیوا",
@@ -2142,7 +2165,8 @@
     "end": 8,
     "line_number": 1,
     "file": 446,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "زندگی کچھ اور شے ہے، علم ہے کچھ اور شے",
@@ -2195,7 +2219,8 @@
     "end": 8,
     "line_number": 1,
     "file": 495,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "کسے خبر کہ جُنوں میں کمال اور بھی ہیں",
@@ -2293,7 +2318,8 @@
     "end": 8,
     "line_number": 1,
     "file": 547,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "آج اور کل",
@@ -2301,7 +2327,8 @@
     "end": 6,
     "line_number": 1,
     "file": 550,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "یورپ اور سُوریا",
@@ -2309,7 +2336,8 @@
     "end": 8,
     "line_number": 1,
     "file": 561,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اور تم دُنیا کے بنجر بھی نہ چھوڑو بےخراج!",
@@ -2326,7 +2354,8 @@
     "end": 18,
     "line_number": 1,
     "file": 568,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مقصد ہے مُلوکیّتِ انگلِیس کا کچھ اور",

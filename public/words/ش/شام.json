@@ -185,7 +185,8 @@
     "end": 7,
     "line_number": 1,
     "file": 81,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ہے تختِ لعلِ شفَق پر جلوسِ اخترِ شام",
@@ -607,7 +608,8 @@
     "end": 3,
     "line_number": 1,
     "file": 570,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "شام اس کی ہے مانندِ سحَر صاحبِ پرتَو",

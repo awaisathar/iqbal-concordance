@@ -167,7 +167,8 @@
     "end": 6,
     "line_number": 1,
     "file": 11,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "قدم کا تھا دہشت سے اُٹھنا محال",
@@ -1251,8 +1252,8 @@
   },
   {
     "line": "“تابِ گویائی نہیں رکھتا دہَن تصویر کا",
-    "start": 35,
-    "end": 37,
+    "start": 34,
+    "end": 36,
     "line_number": 35,
     "file": 35,
     "first": true,
@@ -1462,7 +1463,8 @@
     "end": 7,
     "line_number": 1,
     "file": 41,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "صبح کا دامنِ صد چاک کفن ہے میرا",
@@ -1560,7 +1562,8 @@
     "end": 17,
     "line_number": 1,
     "file": 42,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "نانک نے جس چمن میں وحدت کا گیت گایا",
@@ -2095,8 +2098,8 @@
   },
   {
     "line": "’لا‘ کے دریا میں نہاں موتی ہے ’الاّ اللہ‘ کا",
-    "start": 42,
-    "end": 44,
+    "start": 40,
+    "end": 42,
     "line_number": 13,
     "file": 66,
     "first": false,
@@ -3332,7 +3335,8 @@
     "end": 8,
     "line_number": 1,
     "file": 101,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "تری حیات کا جوہر کمال تک پہنچا",
@@ -4317,8 +4321,8 @@
   },
   {
     "line": "’ذِمّی کا مال لشکرِ مسلم پہ ہے حرام‘",
-    "start": 7,
-    "end": 9,
+    "start": 6,
+    "end": 8,
     "line_number": 21,
     "file": 131,
     "first": true,
@@ -4861,7 +4865,8 @@
     "end": 13,
     "line_number": 1,
     "file": 152,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "لبریز ہو گیا مرے صبر و سکُوں کا جام",
@@ -6813,7 +6818,8 @@
     "end": 20,
     "line_number": 1,
     "file": 319,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "عبد الرّحمٰن اوّل کا بویا ہُوا کھجور کا پہلا درخت",
@@ -6821,7 +6827,8 @@
     "end": 39,
     "line_number": 1,
     "file": 319,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "میری آنکھوں کا نُور ہے تُو",
@@ -6919,7 +6926,8 @@
     "end": 9,
     "line_number": 1,
     "file": 326,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "عشقِ گرہ کشاے کا فیض نہیں ہے عام ابھی",
@@ -7377,7 +7385,8 @@
     "end": 17,
     "line_number": 1,
     "file": 343,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "نالندہ ترے عُود کا ہر تار ازل سے",
@@ -7628,7 +7637,8 @@
     "end": 9,
     "line_number": 1,
     "file": 362,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "تقاضا زندگی کا کیا یہی ہے",
@@ -7884,8 +7894,8 @@
   },
   {
     "line": "’تن بہ تقدیر‘ ہے آج اُن کے عمل کا انداز",
-    "start": 31,
-    "end": 33,
+    "start": 30,
+    "end": 32,
     "line_number": 5,
     "file": 393,
     "first": true,
@@ -7996,7 +8006,8 @@
     "end": 9,
     "line_number": 1,
     "file": 397,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "زوال بندۂ مومن کا بےزری سے نہیں",
@@ -8715,7 +8726,8 @@
     "end": 13,
     "line_number": 1,
     "file": 460,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ڈھُونڈنے والا ستاروں کی گزرگاہوں کا",
@@ -9731,7 +9743,8 @@
     "end": 9,
     "line_number": 1,
     "file": 557,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "افغانیوں کی غیرتِ دیں کا ہے یہ علاج",
@@ -10491,8 +10504,8 @@
   },
   {
     "line": "’شاہ‘ ہے برطانوی مندر میں اک مٹّی کا بُت",
-    "start": 34,
-    "end": 36,
+    "start": 33,
+    "end": 35,
     "line_number": 5,
     "file": 602,
     "first": true,
@@ -10603,7 +10616,8 @@
     "end": 33,
     "line_number": 1,
     "file": 620,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "پانی ترے چشموں کا تڑپتا ہوا سیماب",

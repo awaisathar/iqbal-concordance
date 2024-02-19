@@ -1612,8 +1612,8 @@
   },
   {
     "line": "“شورِ لیلیٰ کو کہ باز آرایشِ سودا کند",
-    "start": 12,
-    "end": 14,
+    "start": 11,
+    "end": 13,
     "line_number": 28,
     "file": 35,
     "first": true,
@@ -3628,8 +3628,8 @@
   },
   {
     "line": "“الٰہی! پھُولوں میں وہ انتخاب مجھ کو کرے",
-    "start": 34,
-    "end": 36,
+    "start": 33,
+    "end": 35,
     "line_number": 5,
     "file": 101,
     "first": true,
@@ -7511,7 +7511,8 @@
     "end": 12,
     "line_number": 1,
     "file": 342,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مشرق سے اُبھرتے ہوئے سُورج کو ذرا دیکھ",
@@ -9738,8 +9739,8 @@
   },
   {
     "line": "( اِبلیس کو مخاطَب کرکے)",
-    "start": 9,
-    "end": 11,
+    "start": 8,
+    "end": 10,
     "line_number": 70,
     "file": 598,
     "first": true
@@ -9840,7 +9841,8 @@
     "end": 29,
     "line_number": 1,
     "file": 599,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ہو تیرے بیاباں کی ہوا تجھ کو گوارا",

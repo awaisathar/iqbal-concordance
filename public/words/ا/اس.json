@@ -2255,7 +2255,8 @@
     "end": 12,
     "line_number": 1,
     "file": 123,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ہوتی ہے اُس کے فیض سے مزرعِ زندگی ہری",
@@ -4563,8 +4564,8 @@
   },
   {
     "line": "’ہر لحظہ ہے قوموں کے عمل پر نظر اس کی",
-    "start": 32,
-    "end": 34,
+    "start": 31,
+    "end": 33,
     "line_number": 9,
     "file": 403,
     "first": true,
@@ -5967,8 +5968,8 @@
   },
   {
     "line": "’ہے جہاد اس دَور میں مردِ مسلماںپر حرام!",
-    "start": 9,
-    "end": 11,
+    "start": 8,
+    "end": 10,
     "line_number": 31,
     "file": 598,
     "first": false,

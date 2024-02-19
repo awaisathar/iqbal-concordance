@@ -914,12 +914,13 @@
     "end": 9,
     "line_number": 1,
     "file": 519,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "“دل اگر میداشت وسعت بےنشاں بود ایں چمن",
-    "start": 35,
-    "end": 38,
+    "start": 34,
+    "end": 37,
     "line_number": 9,
     "file": 523,
     "first": true,

@@ -41,7 +41,8 @@
     "end": 6,
     "line_number": 1,
     "file": 34,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "دیکھتا ہے دیدۂ حیراں تری تصویر کو",
@@ -54,8 +55,8 @@
   },
   {
     "line": "“تابِ گویائی نہیں رکھتا دہَن تصویر کا",
-    "start": 29,
-    "end": 34,
+    "start": 28,
+    "end": 33,
     "line_number": 35,
     "file": 35,
     "first": true,
@@ -247,7 +248,8 @@
     "end": 5,
     "line_number": 1,
     "file": 600,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "تصویر:",

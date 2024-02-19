@@ -284,7 +284,8 @@
     "end": 20,
     "line_number": 1,
     "file": 541,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "جہانِ مغرب کے بُت کدوں میں، کلیسیاؤں میں، مَدرسوں میں",
@@ -310,7 +311,8 @@
     "end": 11,
     "line_number": 1,
     "file": 575,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "نہ مشرق اس سے بَری ہے، نہ مغرب اس سے بَری",

@@ -694,11 +694,12 @@
   },
   {
     "line": "۔۔۔۔ کی گود میں بِلّی دیکھ کر",
-    "start": 27,
-    "end": 29,
+    "start": 26,
+    "end": 28,
     "line_number": 1,
     "file": 70,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "جانِ مضطر کی حقیقت کو نمایاں کر دوں",
@@ -999,8 +1000,8 @@
   },
   {
     "line": "“وفا آموختی از ما، بکارِ دیگراں کر دی",
-    "start": 32,
-    "end": 34,
+    "start": 31,
+    "end": 33,
     "line_number": 27,
     "file": 99,
     "first": true,
@@ -3429,8 +3430,8 @@
   },
   {
     "line": "(فرشتوں کی طرف دیکھ کر)",
-    "start": 20,
-    "end": 22,
+    "start": 19,
+    "end": 21,
     "line_number": 16,
     "file": 433,
     "first": true

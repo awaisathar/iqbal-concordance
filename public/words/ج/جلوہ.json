@@ -149,7 +149,8 @@
     "end": 4,
     "line_number": 1,
     "file": 80,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "جلوۂ حُسن کہ ہے جس سے تمنّا بےتاب",
@@ -261,8 +262,8 @@
   },
   {
     "line": "“ہماں بہتر کہ لیلیٰ در بیاباں جلوہ گر باشد",
-    "start": 30,
-    "end": 34,
+    "start": 29,
+    "end": 33,
     "line_number": 21,
     "file": 149,
     "first": true,

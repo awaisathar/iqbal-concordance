@@ -190,8 +190,8 @@
   },
   {
     "line": "’کشتیِ مسکین‘ و ’جانِ پاک‘ و ’دیوارِ یتیم‘",
-    "start": 17,
-    "end": 21,
+    "start": 14,
+    "end": 18,
     "line_number": 21,
     "file": 162,
     "first": true,
@@ -248,7 +248,8 @@
     "end": 3,
     "line_number": 1,
     "file": 442,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ارتباطِ حرف و معنی، اختلاطِ جان و تن",

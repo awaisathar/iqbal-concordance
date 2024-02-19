@@ -68,7 +68,8 @@
     "end": 11,
     "line_number": 1,
     "file": 515,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اہلِ مِصر سے",
@@ -76,6 +77,7 @@
     "end": 9,
     "line_number": 1,
     "file": 555,
-    "first": false
+    "first": false,
+    "other": ""
   }
 ]
