@@ -36,8 +36,8 @@ else:
         last_line_was_special = False
         is_special_line = False
 
-        for line_count, line in enumerate(lines, start=1):
-            line = line.strip()
+        for line_count in range(0, len(lines)):
+            line = lines[line_count].strip()
 
             # handle ghazals with two empty lines in the start
             if line_count == 1 and len(line) == 0:
@@ -66,22 +66,26 @@ else:
                         'line': line,
                         'start': start,
                         'end': end,
-                        'line_number': line_count,
+                        'line_number': line_count+1,
                         'file': int(re.search(r'\d+', os.path.basename(file_path)).group()),
                         'first': first
                     }
 
                     if not is_special_line:
-                        entry['other'] = lines[line_count].strip() if first else lines[line_count-2].strip()
+                        entry['other'] = lines[line_count+1].strip() if first else lines[line_count-1].strip()
 
                     norm = normalise(word)
-                    all_tokens.setdefault(norm, []).append(entry)
 
+                    if word != '':
+                        if not norm in all_tokens:
+                            all_tokens[norm] = []
+                        all_tokens[norm].append(entry)
                     try:
-                        delimiter = next(filter(None, re.split(f'({regex_pattern})', line[end:])), '')
+                        delimiter = next(filter(None, re.split(f'({regex_pattern})', line[end:])))
                         start = end + len(delimiter)
                     except StopIteration:
-                        break  # Move to the next line if no more tokens are found
+                        break
+                    # Move to the next line if no more tokens are found
             # end word in tokens
         # end lines in file
     # end with current file
@@ -95,7 +99,7 @@ try:
     # Calculate word frequencies
     word_frequencies = {word: len(details) for word, details in all_tokens_sorted.items()}
 
-    # Write concordance.json with detailed occurrences
+    # Write concordance.json with compiled occurrences
     with open('concordance.json', 'w', encoding='utf-8') as out:
         json.dump(all_tokens_sorted, out, indent=2, ensure_ascii=False)
     print("Successfully wrote concordance.json")
@@ -103,10 +107,10 @@ try:
     # Prepare words with frequencies for words.json
     words_with_frequencies = {word: {'frequency': freq} for word, freq in word_frequencies.items()}
 
-    # Write enhanced words data (including frequencies) to words.json
+    # Write words with frequencies to words.json
     with open('src/assets/words.json', 'w', encoding='utf-8') as out:
         json.dump(words_with_frequencies, out, indent=2, ensure_ascii=False)
-    print("Successfully integrated frequencies into src/assets/words.json.")
+    print("Successfully witten words into src/assets/words.json.")
 
 except Exception as e:
     print(f"Error during processing: {e}")
@@ -128,4 +132,3 @@ for word, entries in all_tokens_sorted.items():
             json.dump(entries, out, indent=2, ensure_ascii=False)
     except Exception as e:
         print(f"Error writing file for word '{word}': {e}")
-

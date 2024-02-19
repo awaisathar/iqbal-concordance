@@ -59,7 +59,8 @@
     "end": 7,
     "line_number": 1,
     "file": 115,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "دوش می گُفتم بہ شمعِ منزلِ ویرانِ خویش",
@@ -328,7 +329,8 @@
     "end": 5,
     "line_number": 1,
     "file": 393,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "’تن بہ تقدیر‘ ہے آج اُن کے عمل کا انداز",

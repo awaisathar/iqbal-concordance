@@ -266,7 +266,8 @@
     "end": 4,
     "line_number": 1,
     "file": 130,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اک رات یہ کہنے لگے شبنم سے ستارے",
@@ -400,7 +401,8 @@
     "end": 11,
     "line_number": 1,
     "file": 514,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "شبنم:",

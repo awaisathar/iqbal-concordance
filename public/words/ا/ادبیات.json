@@ -5,7 +5,8 @@
     "end": 6,
     "line_number": 1,
     "file": 497,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "ادبیات",
@@ -13,6 +14,7 @@
     "end": 6,
     "line_number": 1,
     "file": 503,
-    "first": false
+    "first": false,
+    "other": ""
   }
 ]

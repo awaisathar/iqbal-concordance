@@ -203,7 +203,8 @@
     "end": 4,
     "line_number": 1,
     "file": 513,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "سرودِ حلال",
@@ -211,7 +212,8 @@
     "end": 5,
     "line_number": 1,
     "file": 526,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "منتظر ہے کسی مُطرب کا ابھی تک وہ سرود!",
@@ -228,7 +230,8 @@
     "end": 5,
     "line_number": 1,
     "file": 527,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "فغانِ مُرغِ سحَر خواں کو جانتے ہیں سرود",

@@ -167,7 +167,8 @@
     "end": 5,
     "line_number": 1,
     "file": 333,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "حق سے جب حضرتِ مُلّا کو مِلا حکمِ بہشت",
@@ -283,7 +284,8 @@
     "end": 5,
     "line_number": 1,
     "file": 620,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "مُلّا کی نظر نُورِ فراست سے ہے خالی",

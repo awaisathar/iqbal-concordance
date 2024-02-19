@@ -50,7 +50,8 @@
     "end": 3,
     "line_number": 1,
     "file": 14,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "پروانہ تجھ سے کرتا ہے اے شمع! پیار کیوں",
@@ -85,7 +86,8 @@
     "end": 3,
     "line_number": 1,
     "file": 18,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "بزمِ جہاں میں مَیں بھی ہُوں اے شمع! دردمند",
@@ -193,7 +195,7 @@
     "line_number": 8,
     "file": 35,
     "first": false,
-    "other": "“تا ز آغوشِ وداعش داغِ حیرت چیدہ است"
+    "other": "“تاز آغوشِ وداعش داغِ حیرت چیدہ است"
   },
   {
     "line": "یا شمع جل رہی ہے پھُولوں کی انجمن میں",
@@ -219,7 +221,8 @@
     "end": 12,
     "line_number": 1,
     "file": 47,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "شمع کے شعلوں کو گھڑیوں دیکھتا رہتا ہے تو",
@@ -389,7 +392,8 @@
     "end": 3,
     "line_number": 1,
     "file": 117,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "دوش می گُفتم بہ شمعِ منزلِ ویرانِ خویش",

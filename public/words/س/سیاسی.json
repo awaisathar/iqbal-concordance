@@ -14,7 +14,8 @@
     "end": 26,
     "line_number": 1,
     "file": 557,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "سیاسی پیشوا",
@@ -22,6 +23,7 @@
     "end": 5,
     "line_number": 1,
     "file": 571,
-    "first": false
+    "first": false,
+    "other": ""
   }
 ]

@@ -61,7 +61,7 @@ const sortedWords = computed(() => {
   for (const [letter, words] of Object.entries(wordStartingWith.value)) {
     sorted[letter] = sortByFrequency.value
       ? [...words].sort((a, b) => b.frequency - a.frequency)
-      : [...words].sort((a, b) => a.word.localeCompare(b.word, 'ur'));
+      : [...words].sort((a, b) => a.word.localeCompare(b.word));
   }
   return sorted;
 });

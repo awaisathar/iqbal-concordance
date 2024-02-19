@@ -14,7 +14,8 @@
     "end": 3,
     "line_number": 1,
     "file": 203,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "بسم اللہ الرحمن الرحیم",
@@ -22,6 +23,7 @@
     "end": 3,
     "line_number": 1,
     "file": 315,
-    "first": false
+    "first": false,
+    "other": ""
   }
 ]

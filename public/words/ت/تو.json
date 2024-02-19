@@ -4199,7 +4199,8 @@
     "end": 12,
     "line_number": 1,
     "file": 134,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "کہہ رہی ہے زندگی تیری کہ تُو مسلم نہیں",
@@ -4594,7 +4595,8 @@
     "end": 11,
     "line_number": 1,
     "file": 158,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "میں ہلاکِ جادوئے سامری، تُو قتیلِ شیوۂ آزری",

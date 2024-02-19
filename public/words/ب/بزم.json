@@ -68,7 +68,8 @@
     "end": 15,
     "line_number": 1,
     "file": 25,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "بزمِ معمورۂ ہستی سے یہ پُوچھا میں نے",
@@ -85,7 +86,8 @@
     "end": 13,
     "line_number": 1,
     "file": 32,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "رُخصت اے بزمِ جہاں! سُوئے وطن جاتا ہوں مَیں",
@@ -291,7 +293,8 @@
     "end": 4,
     "line_number": 1,
     "file": 109,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "شبنم افشاں تُو کہ بزمِ گُل میں ہو چرچا ترا",

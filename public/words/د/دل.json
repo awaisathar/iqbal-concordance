@@ -248,7 +248,8 @@
     "end": 9,
     "line_number": 1,
     "file": 15,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "عقل نے ایک دن یہ دل سے کہا",
@@ -499,7 +500,8 @@
     "end": 2,
     "line_number": 1,
     "file": 30,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "قصّۂ دار و رسَن بازیِ طفلانۂ دل",
@@ -3531,7 +3533,8 @@
     "end": 9,
     "line_number": 1,
     "file": 423,
-    "first": false
+    "first": false,
+    "other": ""
   },
   {
     "line": "اک دل ہے کہ ہر لحظہ اُلجھتا ہے خرد سے",
